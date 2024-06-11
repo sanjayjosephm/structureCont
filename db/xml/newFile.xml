@@ -1,0 +1,765 @@
+
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article"
+    dtd-version="1.3" xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">default</journal-id>
+            <journal-title-group>
+                <journal-title>default</journal-title>
+                <abbrev-journal-title>default</abbrev-journal-title>
+            </journal-title-group>
+            <issn publication-format="electronic" pub-type="epub">1234-232</issn>
+            <issn publication-format="print" pub-type="ppub">123-12</issn>
+            <publisher>
+                <publisher-name>default</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">default123</article-id>
+            <article-id pub-id-type="doi">10.1021/default123</article-id>
+            <title-group>
+                <article-title>Prediction of pathological response after neoadjuvant chemotherapy
+                    using baseline FDG PET heterogeneity features in breast cancer</article-title>
+            </title-group>
+            <contrib-group content-type="author">
+                <contrib contrib-type="author"><name rid="62e6f4a6-60d6-48ca-a44c-d09b7a5b8057">
+                        <given-name>Carla</given-name>
+                        <surname>Oliveira</surname>
+                        <sup>
+                            <xref ref-type="aff" sub-type="1"
+                                rid="62e6f4a6-60d6-48ca-a44c-d09b7a5b8057">1</xref>
+                        </sup>
+                    </name>
+                    , <name rid="62e6f4a6-60d6-48ca-a44c-d09b7a5b8057">
+                        <given-name>Francisco A</given-name>
+                        <surname>Oliveira</surname>
+                        <sup>
+                            <xref ref-type="aff" sub-type="2"
+                                rid="62e6f4a6-60d6-48ca-a44c-d09b7a5b8057">1</xref>
+                        </sup>
+                    </name>
+                    , <name rid="62e6f4a6-60d6-48ca-a44c-d09b7a5b8057">
+                        <given-name>Sofia C.</given-name>
+                        <surname>Vaz</surname>
+                        <sup>
+                            <xref ref-type="aff" sub-type="3"
+                                rid="62e6f4a6-60d6-48ca-a44c-d09b7a5b8057">1</xref>
+                        </sup>
+                    </name>
+                    , <name rid="968282a4-bc43-403e-9a0a-bea715cea321">
+                        <given-name>Hugo Pinto</given-name>
+                        <surname>Marques</surname>
+                        <sup>
+                            <xref ref-type="aff" sub-type="4"
+                                rid="968282a4-bc43-403e-9a0a-bea715cea321">2</xref>
+                        </sup>
+                    </name>
+                    , <name rid="3af3dc10-0777-477b-bd9d-19e8cd2e5c33">
+                        <given-name>F&#x00E1;tima</given-name>
+                        <surname>Cardoso</surname>
+                        <sup>
+                            <xref ref-type="aff" sub-type="5"
+                                rid="3af3dc10-0777-477b-bd9d-19e8cd2e5c33">3</xref>
+                        </sup>
+                    </name></contrib>
+                <aff id="62e6f4a6-60d6-48ca-a44c-d09b7a5b8057"><sup>
+                        <xref ref-type="aff" rid="62e6f4a6-60d6-48ca-a44c-d09b7a5b8057">1</xref>
+                    </sup><institution
+                        content-type="department">Nuclear Medicine-Radiopharmacology</institution>, <institution>Champalimaud
+                    Clinical Center/Champalimaud Foundation</institution>, Lisbon, <country>Portugal</country></aff>
+                <aff id="968282a4-bc43-403e-9a0a-bea715cea321"><sup>
+                        <xref ref-type="aff" rid="968282a4-bc43-403e-9a0a-bea715cea321">2</xref>
+                    </sup><institution>NOVA
+                    Medical School</institution>, Lisbon, <country>Portugal</country></aff>
+                <aff id="3af3dc10-0777-477b-bd9d-19e8cd2e5c33"><sup>
+                        <xref ref-type="aff" rid="3af3dc10-0777-477b-bd9d-19e8cd2e5c33">3</xref>
+                    </sup><institution
+                        content-type="department">Breast Unit</institution>, <institution>Champalimaud
+                    Clinical Center/Champalimaud Foundation</institution>, Lisbon, <country>Portugal</country></aff>
+            </contrib-group>
+            <abstract>
+                <title>Abstract</title>
+                <p>To describe instances of iodine, or other element with similar K-edge to iodine,
+                    accumulating in benign renal cysts and simulating solid renal masses (SRM) at
+                    single-phase contrast-enhanced (CE) dual-energy CT (DECT).</p>
+            </abstract>
+            <kwd-group>
+                <bold>Keywords: </bold>
+                <kwd>Sustainability</kwd>
+                <kwd>Artificial intelligence</kwd>
+                <kwd>Climate Change</kwd>
+                <kwd>Entrepreneurship</kwd>
+                <kwd>Diversity</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec id="s1">
+            <title>Objective</title>
+        </sec>
+        <sec id="s2" sec-type="methods">
+            <title>Methods</title>
+            <p>During the course of routine clinical practice, instances of benign renal cysts
+                (reference standard true non-contrast enhanced CT [NCCT] homogeneous attenuation
+                &#x003C;10 HU and not enhancing, or MRI) simulating SRM at follow-up single-phase
+                CE-DECT due to iodine (or other element) accumulation were documented in two
+                institutions over a 3 month observation period in 2021. </p>
+        </sec>
+        <sec id="s3" sec-type="results">
+            <title>Results</title>
+            <p>Five Bosniak 1 renal cysts (12&#x00B1;7 mm) in five patients changed nature on
+                follow-up imaging simulating SRM at CE-DECT. At time of DECT, cyst attenuation on
+                true NCCT (mean 91&#x00B1;25 HU [Range 56-120]) was significantly higher compared to
+                virtual NCCT (mean 11&#x00B1;22 HU [-23-30], p=0.003) and all five cysts showed
+                internal iodine content on DECT iodine maps with concentration &#x003E;1.9 mg/ml
+                (mean 8.2&#x00B1;7.6 mg/mL [2.8-20.9]).</p>
+        </sec>
+        <sec id="s4" sec-type="conclusions">
+            <title>Conclusions</title>
+            <p>The accumulation of iodine, or other element with similar K-edge to iodine, in benign
+                renal cysts could simulate enhancing renal masses at single-phase contrast-enhanced
+                DECT. </p>
+        </sec>
+        <sec id="s5">
+            <title>Introduction:</title>
+            <p>Renal lesions are among the most frequently encountered incidental findings in
+                abdominal radiology <xref ref-type="bibr" sub-type="number" rid="RR1"
+                    data-links="#1">[1]</xref>. The vast majority of incidental renal lesions are
+                benign renal cysts, but the radiologist is tasked to differentiate benign renal
+                cysts from cystic or solid renal 5 L neoplasms. The cornerstone of distinguishing a
+                10L benign cyst from a cystic or solid 5 mL renal mass is the presence 8mL of
+                internal enhancement. To demonstrate enhancement, pre- and post- contrast-enhanced
+                CT, MRI or US are typically obtained. An increase in internal density or signal
+                intensity observed within the lesion is assumed to correlate with internal
+                vascularity or solid tissue. The probability that a cystic renal mass represents a
+                neoplasm is assessed using the Bosniak Classification of Cystic Renal Masses, most
+                recently with version 2019 criteria <xref ref-type="bibr" sub-type="number"
+                    rid="RR2" data-links="#2">[2]</xref>. Conversely, a solid renal mass (SRM)
+                &#x003C;4 cm in size has an 80% likelihood of representing renal cell carcinoma
+                (RCC) which becomes even more likely above 4 cm <xref ref-type="bibr"
+                    sub-type="number" rid="RR3" data-links="#3">[3]</xref>.</p>
+            <p>Since most renal lesions are discovered on imaging examinations performed for other
+                reasons, they may not be imaged with dedicated renal mass CT or MRI. To reduce the
+                number of indeterminate renal masses requiring a dedicated pre- and
+                post-contrast-enhanced follow-up examination, the (Bosniak v2019) offers expanded
+                Class II (benign) definitions. For example, i) a uniformly homogeneous
+                hypoattenuating mass measuring &#x003C; 20 Hounsfield units (HU) on non-contrast CT
+                (NCCT), ii) a homogeneous markedly hyperattenuating mass with NCCT attenuation
+                &#x003E; 70 HU and, iii) a homogenously hypoattenuating mass &#x003C; 30 HU at
+                contrast enhanced (CECT) are now all categorized as Class II (benign) cystic masses
+                (3) <xref ref-type="bibr" sub-type="number" rid="RR2" data-links="#2">[2]</xref>.
+                Masses measuring &#x003E;30 HU at single-phase CECT are indeterminate and require
+                further assessment with dedicated renal mass CT or MRI <xref ref-type="bibr"
+                    sub-type="number" rid="RR2" data-links="#2">[2]</xref>. </p>
+        </sec>
+        <sec id="s6">
+            <title>Numbered List:</title>
+            <p>1.&#x00A0;&#x00A0; The average human body temperature is 98.6 degrees Fahrenheit (37
+                degrees Celsius).</p>
+            <p>2.&#x00A0;&#x00A0; The United States is the third most populous country in the world,
+                with a population of approximately 331 million people as of 2021.</p>
+            <p>3.&#x00A0;&#x00A0; The Great Barrier Reef is the largest coral reef system in the
+                world, stretching over 1,400 miles (2,300 km) off the coast of Australia.</p>
+            <p>4.&#x00A0;&#x00A0; The Earth's atmosphere is composed of roughly 78% nitrogen, 21%
+                oxygen, and 1% other gases.</p>
+            <p>5.&#x00A0;&#x00A0; The tallest mountain in the world, Mount Everest, is located in
+                the Himalayas and has a peak elevation of 29,029 feet (8,848 meters).</p>
+        </sec>
+        <sec id="s7">
+            <title>Bullet list:</title>
+            <p>&#x00B7;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0; Bullet points are a common way to
+                present information in a concise and organized manner.</p>
+            <p>&#x00B7;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0; They are useful for breaking up
+                large blocks of text and making content easier to scan and read.</p>
+            <p>&#x00B7;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0; Bullet points can be used to
+                highlight key points, summarize information, or provide a list of items.</p>
+            <p>&#x00B7;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0; When using bullet points, it's
+                important to keep them consistent in terms of formatting, punctuation, and
+                structure.</p>
+            <p>&#x00B7;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0; Some tips for creating effective
+                bullet points include using short phrases or sentences, avoiding repetition, and
+                using parallel structure.</p>
+            <p>In recent years, the proliferation of dual-energy CT (DECT) has translated into
+                additional data available for the characterization of renal masses. For example, a
+                single-phase contrast-enhanced DECT acquisition enables the spectral derivation of a
+                virtual non-contrast enhanced CT (VNCCT) and iodine:water base pair (iodine overlay
+                or iodine map) image sets <xref ref-type="bibr" sub-type="number" rid="RR4"
+                    data-links="#4">[4]</xref>. These additional datasets, combined with the CECT
+                images can further characterize a proportion of indeterminate renal masses that
+                would otherwise require dedicated renal mass CT or MRI, namely masses measuring
+                &#x003E;30 HU at single-phase CECT <xref ref-type="bibr" sub-type="number" rid="RR5"
+                    data-links="#5">[5]</xref>. The VNCCT image set is used to establish an
+                approximate baseline unenhanced density of a renal mass. This density is compared to
+                the CECT images to determine if enhancement is present, typically using the standard
+                threshold of 20 HU attenuation change to define enhancement <xref ref-type="bibr"
+                    sub-type="number" rid="RR4" data-links="#4">[4]</xref>. The results can be
+                confirmed using subjective or quantitative assessment of iodine content on the
+                iodine concentration map, with proposed thresholds of &#x003E;1.2-1.9 mg/mL defining
+                enhancement <xref ref-type="bibr" sub-type="number" rid="RR6" data-links="#6">[6]</xref>
+                .&#x00A0; </p>
+            <p>In this study, we describe a pitfall of single-phase CE DECT where iodine, or other
+                element with similar K-edge to iodine, accumulate within benign Bosniak I cysts on
+                follow-up imaging simulating solid renal masses on single-phase CE DECT. </p>
+        </sec>
+        <sec id="s8" sec-type="methods">
+            <title>Methods </title>
+            <p>During the course of routine clinical work, over a 3-month period in 2021, the
+                authors recorded five instances of iodine or other element with similar k-edge to
+                iodine accumulation in five benign Bosniak 1 renal cysts in five separate patients
+                at two institutions. During the observation period, an approximate total of 345 DECT
+                examinations had been performed at both institutions (rate of 1.4%, 95% Confidence
+                Intervals 0-1.6%). A comparison baseline study established Bosniak 1 cyst diagnosis
+                (homogeneous &#x003C;10 HU and no enhancement comparing true NCCT and CECT, N=1) or
+                multi-phase MRI (N=4) and was also available after DECT and used as the reference
+                standard for diagnosis a benign non-enhancing cyst according to Bosniak v2019 <xref
+                    ref-type="bibr" sub-type="number" rid="RR2" data-links="#2">[2]</xref>. DECT was
+                acquired using either rapid kiloVoltage potential (kVp) switch (GE Discovery 750W)
+                or dual-source CT (Siemens Somatom X.Cite) scanners. Institutional Review Board
+                approval was not required for this observational case series.</p>
+        </sec>
+        <sec id="s9" sec-type="results">
+            <title>Results</title>
+            <p>Benign cysts measured 12&#x00B1;7 mm in size and did not change in size over serial
+                CT scans. Mean patient age was 72&#x00B1;12 years and there were 3 females. All
+                renal cysts were asymptomatic incidental imaging findings during the time of all
+                imaging with no pain attributable to the cyst. All patients had DECT performed for
+                other reasons beside the five included cysts. All patients had iodine administered
+                intravenously or by catheter angiography within 1 year prior to DECT and after
+                baseline imaging. No cyst changed in size on serial exams.</p>
+            <p>At time of DECT, attenuation of the cyst on true NCCT (mean 91&#x00B1;25 HU [Range
+                56-120]) was significantly higher when compared to VNCCT (mean 11&#x00B1;22 HU
+                [-23-30], p=0.003 paired t-test). All five cysts showed internal iodine content on
+                DECT iodine maps with concentration &#x003E;1.9 mg/ml (mean 8.2&#x00B1;7.6 mg/mL
+                [2.8-20.9]), above described thresholds to define enhancement <xref ref-type="bibr"
+                    sub-type="number" rid="RR6" data-links="#6">[6]</xref>. Effective atomic number
+                (Zeff) maps were derived where decomposition is performed based upon a tissues
+                electron density and atomic number properties. Quantitative Zeff was recorded and
+                the mean was 9.0&#x00B1;1.1, which is above a published threshold (8.4) for
+                diagnosis of enhancement in renal masses <xref ref-type="bibr" sub-type="number"
+                    rid="RR7" data-links="#7">[7]</xref> and would be inconsistent with ferric
+                nature of blood products. We hypothesize that in these five cases, iodine or other
+                element with similar k-edge to iodine, accumulated into the benign renal cysts
+                results in diagnostic errors at DECT which would have resulted in misclassification
+                of cysts as solid masses, <xref ref-type="fig" rid="F1">Figure 1</xref>. </p>
+        </sec>
+        <sec id="s10" sec-type="discussion"><title>Discussion</title><p>We demonstrate five cases of
+            iodine, or other element with similar k-edge to iodine, retention within Bosniak 1
+            benign renal cysts, simulating enhancing renal masses at single-phase contrast-enhanced
+            DECT. Iodine has been shown to accumulate within renal cysts at I-131 scintigraphy [8;
+            9]. Proposed pathophysiology include passive diffusion and retention <xref
+                    ref-type="bibr" sub-type="number" rid="RR9" data-links="#9">[9]</xref> or
+            presence of sodium iodine transporters <xref ref-type="bibr" sub-type="number"
+                    rid="RR10" data-links="#10">[10]</xref>. It is possible our findings are related
+            to accumulation of another element with similar k-edge to iodine which would result in
+            the same diagnostic errors encountered at single-phase CE DECT <xref ref-type="table"
+                    rid="T1">Table 1</xref>. We suggest that caution should be exercised when
+            diagnosing a renal mass as solid based solely upon data derived from single-phase
+            contrast-enhanced DECT data. Currently, there is debate as to whether a single-phase
+            post-contrast DECT examination can accurately characterize indeterminate renal masses
+            measuring &#x003E;30 HU. Undoubtedly many benign non-enhancing hyperattenuating cysts
+            can be differentiated from enhancing renal masses using VNCCT and iodine:water data <xref
+                    ref-type="bibr" sub-type="number" rid="RR11" data-links="#11">[11]</xref>;
+            however, when comparing VNCCT and true NCCT to characterize renal masses, other authors
+            have suggested that renal CT protocols using DECT should continue to acquire true NCCT
+            rather than relying solely on VNCCT images due to difference in CT numbers <xref
+                    ref-type="bibr" sub-type="number" rid="RR12" data-links="#12">[12]</xref>. Our
+            case series supports the assertion that true NCCT remains an integral component of renal
+            mass characterization and that accumulation of iodine or other element with similar
+            k-edge to iodine could simulate solid renal masses using only DECT data. Other pitfalls
+            of DECT for renal mass interpretation are beyond the scope of our manuscript but have
+            been described elsewhere, <xref ref-type="bibr" sub-type="number" rid="RR5"
+                    data-links="#5">[5]</xref>. Our study results are limited by a small sample size
+            and lack of biochemical confirmation of cystic iodine or element content. </p><p><inline-formula>
+                    <mml:math>
+                        <mml:msup>
+                            <mml:mrow>
+                                <mml:mfenced separators="|">
+                                    <mml:mrow>
+                                        <mml:mi>x</mml:mi>
+                                        <mml:mo>+</mml:mo>
+                                        <mml:mi>a</mml:mi>
+                                    </mml:mrow>
+                                </mml:mfenced>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>n</mml:mi>
+                            </mml:mrow>
+                        </mml:msup>
+                        <mml:mo>=</mml:mo>
+                        <mml:mrow>
+                            <mml:msubsup>
+                                <mml:mo stretchy="true">&#x2211;</mml:mo>
+                                <mml:mrow>
+                                    <mml:mi>k</mml:mi>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mn>0</mml:mn>
+                                </mml:mrow>
+                                <mml:mrow>
+                                    <mml:mi>n</mml:mi>
+                                </mml:mrow>
+                            </mml:msubsup>
+                            <mml:mrow>
+                                <mml:mfenced separators="|">
+                                    <mml:mrow>
+                                        <mml:mfrac linethickness="0pt">
+                                            <mml:mrow>
+                                                <mml:mi>n</mml:mi>
+                                            </mml:mrow>
+                                            <mml:mrow>
+                                                <mml:mi>k</mml:mi>
+                                            </mml:mrow>
+                                        </mml:mfrac>
+                                    </mml:mrow>
+                                </mml:mfenced>
+                                <mml:msup>
+                                    <mml:mrow>
+                                        <mml:mi>x</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mi>k</mml:mi>
+                                    </mml:mrow>
+                                </mml:msup>
+                                <mml:msup>
+                                    <mml:mrow>
+                                        <mml:mi>a</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mi>n</mml:mi>
+                                        <mml:mo>&#x2212;</mml:mo>
+                                        <mml:mi>k</mml:mi>
+                                    </mml:mrow>
+                                </mml:msup>
+                            </mml:mrow>
+                        </mml:mrow>
+                    </mml:math>
+                </inline-formula>&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;
+            (1)</p><p>Box 1. Testing manuscript for box caption.</p><p>&#x2022;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;
+            Eat a balanced diet that includes plenty of fruits, vegetables, whole grains, and lean
+            protein.</p><p>&#x2022;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0; Stay hydrated by
+            drinking plenty of water throughout the day.</p><p>&#x2022;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;
+            Get regular exercise, aiming for at least 30 minutes of moderate activity most days of
+            the week.</p><p>&#x2022;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0; Limit your
+            intake of processed foods, sugary drinks, and unhealthy fats.</p><p>&#x2022;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;
+            Avoid smoking and limit your alcohol consumption.</p><p><bold><xref ref-type="table"
+                        rid="T1">Table 1</xref> &#x2013; </bold>Collected parameters in each
+            selected paper</p><table-wrap position="float">
+                <table cellpadding="0">
+                    <tbody>
+                        <tr>
+                            <td valign="top">
+                                <bold>Parameters</bold>
+                            </td>
+                            <td valign="top">
+                                <bold>Type of information</bold>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td valign="top"> Study type </td>
+                            <td valign="top"> Retrospective or prospective </td>
+                        </tr>
+                        <tr>
+                            <td valign="top"> Study population </td>
+                            <td valign="top"> Number of included patients </td>
+                        </tr>
+                        <tr>
+                            <td valign="top"> Clinicopathological and demographic characteristics </td>
+                            <td valign="top"> Age; menopausal state; tumour grade; clinical TNM
+            stage; <bold>tumour</bold> size; type of <italic>chemotherapy</italic>; histological
+            type; Ki67 index; oestrogen, progesterone and HER2 receptors </td>
+                        </tr>
+                        <tr>
+                            <td valign="top"> Primary endpoint for assessing response to NAST </td>
+                            <td valign="top"> pCR or partial response </td>
+                        </tr>
+                        <tr>
+                            <td valign="top"> PET scanner and scanning parameters </td>
+                            <td valign="top"> PET equipment; acquisition parameters; reconstruction
+            algorithm </td>
+                        </tr>
+                        <tr>
+                            <td valign="top"> Segmentation </td>
+                            <td valign="top"> Target lesions of the tumour burden included in
+            segmentation (primary tumour only or inclusion of suspicious axillary lymph nodes);
+            segmentation method (manual, automatic or semi-automatic); segmentation criteria in
+            cases of multifocal tumour; segmentation method/software </td>
+                        </tr>
+                        <tr>
+                            <td valign="top"> Heterogeneity features </td>
+                            <td valign="top"> Analysed IMH features and/or texture features; impact
+            on prediction of response to NAST; correlation with prognostic markers; software used
+            for features computation </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap><p>NA:
+            too few events to estimate an OR, aPOP: testing, BIP: biaca dacad.</p><p><bold><xref
+                        ref-type="fig" rid="F1">Figure 1</xref> &#x2013; </bold>Flowchart explaining
+            the selection of the included studies.</p>&#x00A0;&#x00A0;</sec>
+    </body>
+    <back>
+        <fn-group />
+        <ref-list>
+            <title>References</title>
+            <ref id="R1">
+                <label>1</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Berland</surname>
+                            <given-names>L. L.</given-names>
+                        </name>
+                        <name>
+                            <surname>Silverman</surname>
+                            <given-names>S. G.</given-names>
+                        </name>
+                        <name>
+                            <surname>Gore</surname>
+                            <given-names>R. M</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Managing Incidental Findings on Abdominal CT: White Paper of the
+                        ACR Incidental Findings Committee</article-title>
+                    <source>
+                        <italic>J Am Coll Radiol</italic>
+                    </source>
+                    <year>2010</year>
+                    <volume>7</volume>
+                    <fpage>754</fpage>
+                    <lpage>773</lpage>
+                </element-citation>
+            </ref>
+            <ref id="R2">
+                <label>2</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Silverman</surname>
+                            <given-names>S. G.</given-names>
+                        </name>
+                        <name>
+                            <surname>Pedrosa</surname>
+                            <given-names>I.</given-names>
+                        </name>
+                        <name>
+                            <surname>Ellis</surname>
+                            <given-names>J. H</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Bosniak Classification of Cystic Renal Masses, Version 2019: An
+                        Update Proposal and Needs Assessment</article-title>
+                    <source>
+                        <italic>Radiology</italic>
+                    </source>
+                    <year>2019</year>
+                </element-citation>
+            </ref>
+            <ref id="R3">
+                <label>3</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Schieda</surname>
+                            <given-names>N.</given-names>
+                        </name>
+                        <name>
+                            <surname>Krishna</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Pedrosa</surname>
+                            <given-names>I.</given-names>
+                        </name>
+                        <name>
+                            <surname>Kaffenberger</surname>
+                            <given-names>S. D.</given-names>
+                        </name>
+                        <name>
+                            <surname>Davenport</surname>
+                            <given-names>M. S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Silverman</surname>
+                            <given-names>S. G</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Active Surveillance of Renal Masses: The Role of Radiology</article-title>
+                    <source>
+                        <italic>Radiology</italic>
+                    </source>
+                    <year>2021</year>
+                </element-citation>
+            </ref>
+            <ref id="R4">
+                <label>4</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Marin</surname>
+                            <given-names>D.</given-names>
+                        </name>
+                        <name>
+                            <surname>Davis</surname>
+                            <given-names>D.</given-names>
+                        </name>
+                        <name>
+                            <surname>Roy Choudhury</surname>
+                            <given-names>K</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Characterization of Small Focal Renal Lesions: Diagnostic
+                        Accuracy with Single-Phase Contrast-Enhanced Dual-Energy CT with Material
+                        Attenuation Analysis Compared with Conventional Attenuation Measurements</article-title>
+                    <source>
+                        <italic>Radiology</italic>
+                    </source>
+                    <year>2017</year>
+                    <volume>284</volume>
+                    <fpage>737</fpage>
+                    <lpage>747</lpage>
+                </element-citation>
+            </ref>
+            <ref id="R5">
+                <label>5</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Krishna</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Murray</surname>
+                            <given-names>C. A.</given-names>
+                        </name>
+                        <name>
+                            <surname>McInnes</surname>
+                            <given-names>M. D</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>CT Imaging of Solid Renal Masses: Pitfalls and Solutions</article-title>
+                    <source>
+                        <italic>Clin Radiol</italic>
+                    </source>
+                    <year>2017</year>
+                    <volume>72</volume>
+                    <fpage>708</fpage>
+                    <lpage>721</lpage>
+                </element-citation>
+            </ref>
+            <ref id="R6">
+                <label>6</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Salameh</surname>
+                            <given-names>J. P.</given-names>
+                        </name>
+                        <name>
+                            <surname>McInnes</surname>
+                            <given-names>M. D. F.</given-names>
+                        </name>
+                        <name>
+                            <surname>McGrath</surname>
+                            <given-names>T. A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Salameh</surname>
+                            <given-names>G.</given-names>
+                        </name>
+                        <name>
+                            <surname>Schieda</surname>
+                            <given-names>N</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Diagnostic Accuracy of Dual-Energy CT for Evaluation of Renal
+                        Masses: Systematic Review and Meta-Analysis</article-title>
+                    <source>
+                        <italic>Am J Roentgenol</italic>
+                    </source>
+                    <year>2019</year>
+                    <volume>212</volume>
+                    <fpage>100</fpage>
+                    <lpage>105</lpage>
+                </element-citation>
+            </ref>
+            <ref id="R7">
+                <label>7</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Mileto</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Allen</surname>
+                            <given-names>B. C.</given-names>
+                        </name>
+                        <name>
+                            <surname>Pietryga</surname>
+                            <given-names>J. A</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Characterization of Incidental Renal Mass With Dual-Energy CT:
+                        Diagnostic Accuracy of Effective Atomic Number Maps for Discriminating
+                        Nonenhancing Cysts From Enhancing Masses</article-title>
+                    <source>
+                        <italic>Am J Roentgenol</italic>
+                    </source>
+                    <year>2017</year>
+                    <volume>209</volume>
+                    <fpage>221</fpage>
+                    <lpage>230</lpage>
+                </element-citation>
+            </ref>
+            <ref id="R8">
+                <label>8</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Maciejewski</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Czepczynski</surname>
+                            <given-names>R.</given-names>
+                        </name>
+                        <name>
+                            <surname>Ruchala</surname>
+                            <given-names>M</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>False-Positive Radioiodine Whole-Body Scan Due to a Renal Cyst</article-title>
+                    <source>
+                        <italic>Endokrynol Pol</italic>
+                    </source>
+                    <year>2018</year>
+                    <volume>69</volume>
+                    <fpage>736</fpage>
+                    <lpage>739</lpage>
+                </element-citation>
+            </ref>
+            <ref id="R9">
+                <label>9</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Lee</surname>
+                            <given-names>J. Y.</given-names>
+                        </name>
+                        <name>
+                            <surname>Song</surname>
+                            <given-names>H.-S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Choi</surname>
+                            <given-names>J.-H.</given-names>
+                        </name>
+                        <name>
+                            <surname>Lee</surname>
+                            <given-names>J. S</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Iodine Uptake in Retroperitoneal Cysts after Radioactive Iodine
+                        Treatment</article-title>
+                    <source>
+                        <italic>Indian J Nucl Med</italic>
+                    </source>
+                    <year>2020</year>
+                    <volume>35</volume>
+                    <issue>1</issue>
+                    <fpage>76</fpage>
+                    <lpage>77</lpage>
+                    <pub-id pub-id-type="doi">https://doi.org/10.4103/ijnm.IJNM_181_19</pub-id>
+                    <pub-id pub-id-type="pmid">31949379</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="R10">
+                <label>10</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Spitzweg</surname>
+                            <given-names>C.</given-names>
+                        </name>
+                        <name>
+                            <surname>Dutton</surname>
+                            <given-names>C. M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Castro</surname>
+                            <given-names>M. R</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Expression of the Sodium Iodide Symporter in Human Kidney</article-title>
+                    <source>
+                        <italic>Kidney Int</italic>
+                    </source>
+                    <year>2001</year>
+                    <volume>59</volume>
+                    <fpage>1013</fpage>
+                    <lpage>1023</lpage>
+                </element-citation>
+            </ref>
+            <ref id="R11">
+                <label>11</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Cha</surname>
+                            <given-names>D.</given-names>
+                        </name>
+                        <name>
+                            <surname>Kim</surname>
+                            <given-names>C. K.</given-names>
+                        </name>
+                        <name>
+                            <surname>Park</surname>
+                            <given-names>J. J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Park</surname>
+                            <given-names>B. K</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Evaluation of Hyperdense Renal Lesions Incidentally Detected on
+                        Single-Phase Post-Contrast CT Using Dual-Energy CT</article-title>
+                    <source>
+                        <italic>Br J Radiol</italic>
+                    </source>
+                    <year>2016</year>
+                    <volume>89</volume>
+                    <fpage>20150860</fpage>
+                </element-citation>
+            </ref>
+            <ref id="R12">
+                <label>12</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Cao</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Lennartz</surname>
+                            <given-names>S.</given-names>
+                        </name>
+                        <name>
+                            <surname>Pisuchpen</surname>
+                            <given-names>N</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Renal Lesion Characterization by Dual-Layer Dual-Energy CT:
+                        Comparison of Virtual and True Unenhanced Images</article-title>
+                    <source>
+                        <italic>AJR Am J Roentgenol</italic>
+                    </source>
+                    <year>2022</year>
+                    <volume>219</volume>
+                    <fpage>614</fpage>
+                    <lpage>623</lpage>
+                </element-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

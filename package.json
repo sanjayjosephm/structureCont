@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "libxmljs2": "^0.33.0",
+    "request": "^2.88.2",
+    "unirest": "^0.6.0",
+    "xmldom": "^0.6.0",
+    "xsltproc": "^0.0.4"
+  }
+}

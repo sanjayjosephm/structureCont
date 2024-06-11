@@ -1,0 +1,204 @@
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article"
+    dtd-version="1.3" xml:lang="en">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">default</journal-id>
+            <journal-title-group>
+                <journal-title>default</journal-title>
+                <abbrev-journal-title>default</abbrev-journal-title>
+            </journal-title-group>
+            <issn publication-format="electronic" pub-type="epub">1234-232</issn>
+            <issn publication-format="print" pub-type="ppub">123-12</issn>
+            <publisher>
+                <publisher-name>default</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">default123</article-id>
+            <article-id pub-id-type="doi">10.1021/default123</article-id>
+            <title-group>
+                <article-title>Title: <italic>Opening science to society: how to progress societal
+                    engagement into (open) science policies</italic></article-title>
+            </title-group>
+            <contrib-group content-type="author">
+                <contrib contrib-type="author"><name data-ref="Corresponding Author"
+                        rid="9d2b8936-38dd-4946-a514-b263ec8bb517"><surname>Wehn</surname>, <given-name>
+                    U.</given-name><sup>
+                            <xref ref-type="aff" sub-type="1"
+                                rid="9d2b8936-38dd-4946-a514-b263ec8bb517">1</xref>
+                        </sup></name><xref
+                        ref-type="aff" sub-type="1" data-ref="corresponding">*</xref>, <name
+                        rid="aa118c83-bc90-459c-ac01-11808bdf844d"><surname>Ajates</surname>, <given-name>
+                    R.</given-name><sup>
+                            <xref ref-type="aff" sub-type="2"
+                                rid="aa118c83-bc90-459c-ac01-11808bdf844d">2</xref>
+                        </sup></name>
+                    , <name rid="f14bc274-207d-41c9-911d-e8ac29a7c693"><surname>Mandeville</surname>
+                    , <given-name>C.</given-name><sup>
+                            <xref ref-type="aff" sub-type="3"
+                                rid="f14bc274-207d-41c9-911d-e8ac29a7c693">3</xref>
+                        </sup></name>
+                    , <name rid="9d2b8936-38dd-4946-a514-b263ec8bb517"><surname>Somerwill</surname>, <given-name>
+                    L.</given-name><sup>
+                            <xref ref-type="aff" sub-type="4"
+                                rid="9d2b8936-38dd-4946-a514-b263ec8bb517">1</xref>
+                        </sup></name>
+                    , <name rid="0962e956-db3e-4a74-83f3-cb54aed84201"><surname>Kragh</surname>, <given-name>
+                    G.</given-name><sup>
+                            <xref ref-type="aff" sub-type="5"
+                                rid="0962e956-db3e-4a74-83f3-cb54aed84201">4</xref>
+                        </sup></name>
+                    , <name rid="39785930-1f5f-4066-a4e2-11c53ec502fa"><surname>Haklay</surname>, <given-name>
+                    M<sup>.</sup></given-name><sup>
+                            <xref ref-type="aff" sub-type="6"
+                                rid="39785930-1f5f-4066-a4e2-11c53ec502fa">5</xref>
+                        </sup></name>
+                </contrib>
+                <aff id="9d2b8936-38dd-4946-a514-b263ec8bb517" data-ref="Corresponding Affiliation"><sup>
+                        <xref ref-type="aff" rid="9d2b8936-38dd-4946-a514-b263ec8bb517">1</xref>
+                    </sup> <institution>IHE
+                    Delft Institute for Water Education</institution>, Westvest 7, 2601DA Delft, <country>The
+                    Netherlands</country></aff>
+                <aff id="aa118c83-bc90-459c-ac01-11808bdf844d"><sup>
+                        <xref ref-type="aff" rid="aa118c83-bc90-459c-ac01-11808bdf844d">2</xref>
+                    </sup>
+                    Raquel: <institution>Universidad Nacional de Educaci&#x00F3;n a Distancia</institution>,
+                    Calle Obispo Trejo, n&#x00BA;2, 28040 (Madrid), <country>Spain</country>
+                    &#x0026; University of Dundee, United Kingdom</aff>
+                <aff id="f14bc274-207d-41c9-911d-e8ac29a7c693"><sup>
+                        <xref ref-type="aff" rid="f14bc274-207d-41c9-911d-e8ac29a7c693">3</xref>
+                    </sup>
+                    Centre for Biodiversity Dynamics, <institution content-type="department">Department
+                    of Natural History</institution>, <institution>Norwegian University of Science
+                    and Technology</institution>, H&#x00F8;gskoleringen 1, 7034 Trondheim, <country>
+                    Norway</country></aff>
+                <aff id="0962e956-db3e-4a74-83f3-cb54aed84201"><sup>
+                        <xref ref-type="aff" rid="0962e956-db3e-4a74-83f3-cb54aed84201">4 </xref>
+                    </sup><institution
+                        content-type="department">Centre for Science Studies</institution>, <institution>Aarhus
+                    University</institution>, Ny Munkegade 118, 8000 Aarhus C, <country>Denmark</country></aff>
+                <aff id="39785930-1f5f-4066-a4e2-11c53ec502fa"><sup>
+                        <xref ref-type="aff" rid="39785930-1f5f-4066-a4e2-11c53ec502fa">5</xref>
+                    </sup> <institution
+                        content-type="department">Department of Geography</institution>, <institution>University
+                    College London</institution>, Gower Street, London WC1E 6BT, <country>United
+                    Kingdom</country>
+                </aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="59037959-dab2-4990-9d1d-17384529f2d5"><xref ref-type="aff"
+                        rid="59037959-dab2-4990-9d1d-17384529f2d5">*</xref>corresponding author: <email>
+                    u.wehn@un-ihe.org</email></corresp>
+            </author-notes>
+            <pub-date pub-type="ppub" />
+            <abstract>
+                <title>Abstract:</title>
+                <p>A broad understanding of the aims and objectives of the international open
+                    science movement was recently adopted with the 2021 UNESCO Recommendation on
+                    Open Science, expanding the focus of open science to include scientific
+                    knowledge, infrastructures, knowledge systems, and the open engagement of
+                    societal actors. In response, recent discussions on science policy practice are
+                    shifting to the implementation of open science via national policy. While policy
+                    instruments to support some aspects of open science are well-studied, guidance
+                    on the emerging &#x2018;social&#x2019; aspects of open science has lagged,
+                    prompting UNESCO to generate guidance. In this paper, authors of a UNESCO Open
+                    Science Toolkit guidance document on &#x201C;Engaging societal actors in Open
+                    Science&#x201D; synthesise the scholarly underpinnings behind the guidance
+                    document&#x2019;s recommendations. This work draws upon a targeted search from
+                    academic, policy, and grey literature in the fields of open
+                    &#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;science and community engagement, with a
+                    special focus on citizen science, to derive guidance on how to overcome barriers
+                    for the uptake of societal engagement approaches. The results present building
+                    blocks of what an enabling environment for the open engagement of societal
+                    actors could look like, identifying key considerations and reflecting on
+                    opportunities and challenges for progressing and evaluating sound open
+                    engagement of societal actors into regional &#x0026; national (open) science
+                    policies.</p>
+            </abstract>
+            <kwd-group>
+                <kwd>citizen science</kwd>
+                <kwd>open science</kwd>
+                <kwd>open data</kwd>
+                <kwd>open access</kwd>
+                <kwd>policy recommendations</kwd>
+                <kwd>societal engagement</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec id="s1">
+            <sec id="s1.1">
+                <p>&#x00A0;<bold>Authors</bold>: </p>
+            </sec>
+        </sec>
+        <sec id="s2">
+            <title>1 &#x2013; Introduction</title>
+            <p>While policy instruments to support some aspects of open science are available -
+                including open access and open data, guidance on the emerging &#x2018;social&#x2019;
+                aspects of open science has lagged. The 2021 UNESCO Recommendation on Open
+                Science&#x2019;s identification of &#x201C;Open engagement of societal
+                actors&#x201D; as a pillar of open science has prompted increased focus on social
+                aspects of open science, resulting in the development of a specific guide in the
+                UNESCO Open Science Toolkit, summarising regional and national policy
+                recommendations to support the open engagement of societal actors. Here, authors of
+                this guide on engagement of societal actors in open science report, expand, and
+                reflect upon the scholarly underpinnings behind the guidance document&#x2019;s
+                recommendations. Our general aim is to support the application of the guide by
+                different stakeholder groups. The guide was addressed to policy makers and policy
+                professionals who are less familiar with the field, to benefit from understanding
+                the place of citizen science within the wider field of Open Science. Through this
+                paper, researchers and practitioners can access the additional details that clarify
+                the underlying work that led to the guide, with the view of informing their open
+                science practice, and for the OS guidance document to be built upon, critically
+                evaluated, and improved over time. In 2019, the 193 UNESCO Member States tasked the
+                organisation with the development of an international standard-setting instrument on
+                Open Science in the form of a UNESCO Recommendation. </p>
+            <p>The UNESCO Recommendation on Open Science was adopted by the General Conference of
+                UNESCO at its 41st session, in November 2021,</p>
+            <p>
+                <italic>&#x201C;Noting the transformative potential of open science for reducing the
+                    existing inequalities in STI [i.e. science, technology &#x0026; innovation;
+                    added] and accelerating progress towards the implementation of the 2030 Agenda
+                    and the achievement of the Sustainable Development Goals (SDGs) and
+                    beyond.&#x201D;</italic>
+            </p>
+            <p><italic>&#x201C;Considering that more open, transparent, collaborative and inclusive
+                scientific practices, coupled with more accessible and verifiable scientific
+                knowledge subject to scrutiny and critique, is a more efficient enterprise that
+                improves the quality, reproducibility and impact of science, and thereby the
+                reliability of the evidence needed for robust decision-making and policy and
+                increased trust in science.&#x201D;</italic> [p.2] </p>
+            <p>"Open Science" is an umbrella concept, which includes a range of "open" labels of
+                research practices, such as Open Source Software, Open Access to publications, Open
+                Educational Resources, Open Data, as well as opening the process of scientific
+                knowledge production to other actors, or "citizen science" in its dual value of
+                science produced by citizens - through the collection of data and involvement in
+                other steps of the scientific method - and science made for citizens, or scientific
+                communication.</p>
+            <p>Open science emerged in the late 2000s, as a solution to address recognised issues in
+                scientific practices (such as the difficulties in accessing scientific papers) and
+                by taking advantage of emerging web technologies (see for example<xref
+                    ref-type="bibr" sub-type="authorYear" rid="RR67">, Nielsen 2011<xref
+                        ref-type="bibr" sub-type="authorYear" rid="R9">, Boulton et al., 2012).</xref></xref>
+                Its original formation highlighted open scientific data as a core principle, joined
+                by open access publication and open source scientific software, as well as openness
+                to the public in terms of their engagement in scientific practice. In practice, most
+                attention was paid to the aspects that are at the core of the concerns of scientists
+                such as Open Access and Open Data. Since then, the concept evolved, with an adoption
+                of it by the European Commission as a central part of research policy <xref
+                    ref-type="bibr" sub-type="authorYear" rid="RR12">(Burgelman et al. 2019),</xref>
+                with eight areas of activity: rewards and incentives, indicators and next-generation
+                metrics, future of scholarship, European Open Science Cloud (EOSC), FAIR data,
+                research integrity, skills and education, and citizen science (European Commission,
+                Directorate-General for Research and Innovation, Mendez<xref ref-type="bibr"
+                    sub-type="authorYear" rid="RR26">, Lawrence, 2020).</xref> Eventually, global
+                awareness, attention and some form of consensus converged and materialised in the
+                form of the UNESCO Recommendation on Open Science. This Recommendation was motivated
+                by the need to change &#x2018;science as usual&#x2019; in order to achieve the
+                Sustainable Development Goals (SDGs) and was adopted by all Member States in
+                November 2021. </p>
+        </sec>
+    </body>
+</article>

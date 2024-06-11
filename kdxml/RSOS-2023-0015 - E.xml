@@ -1,0 +1,2775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article"
+    xml:lang="en">
+    <front  data-edited="true" data-edited-version="2">
+        <journal-meta >
+            <journal-id journal-id-type="publisher-id" >
+                rsos</journal-id>
+            <journal-title-group >
+                <journal-title >Royal Society Open Science</journal-title>
+                <abbrev-journal-title >R. Soc. Open Sci.</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub"  />
+            <issn pub-type="epub" >2054-5703</issn>
+            <publisher >
+                <publisher-name >Royal Society</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta >
+            <article-id pub-id-type="publisher-id" >
+                10.1098/RSOS-2023-0015</article-id>
+            <article-id pub-id-type="doi" >RSOS-2023-0015</article-id>
+            <article-categories >
+                <subj-group subj-group-type="display-channel"
+                    >
+                    <subject >Research</subject>
+                </subj-group>
+            </article-categories>
+            <title-group >
+                <article-title xmlns:xlink="http://www.w3.org/1999/xlink"
+                    >Comprehensive <named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706000_s"
+                        content-type="del" specific-use="1702443706000" xlink:title="Exeter"
+                        alt="preediting" data-type="s-case" data-userid="preediting"
+                        data-username="Exeter" data-time="1702443706000"
+                        >Experimental</named-content><named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706000_s"
+                        content-type="ins" specific-use="1702443706000" xlink:title="Exeter"
+                        alt="preediting" data-type="s-case" data-userid="preediting"
+                        data-username="Exeter" data-time="1702443706000"
+                        >experimental</named-content> study
+                    on the gas <named-content xmlns:xlink="http://www.w3.org/1999/xlink"
+                        data-cid="1702443706001_s" content-type="del" specific-use="1702443706001"
+                        xlink:title="Exeter" alt="preediting" data-type="s-case"
+                        data-userid="preediting" data-username="Exeter" data-time="1702443706001"
+                        >Breakthrough</named-content><named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706001_s"
+                        content-type="ins" specific-use="1702443706001" xlink:title="Exeter"
+                        alt="preediting" data-type="s-case" data-userid="preediting"
+                        data-username="Exeter" data-time="1702443706001"
+                        >breakthrough</named-content> <named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706002_s"
+                        content-type="del" specific-use="1702443706002" xlink:title="Exeter"
+                        alt="preediting" data-type="s-case" data-userid="preediting"
+                        data-username="Exeter" data-time="1702443706002"
+                        >Pressure</named-content><named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706002_s"
+                        content-type="ins" specific-use="1702443706002" xlink:title="Exeter"
+                        alt="preediting" data-type="s-case" data-userid="preediting"
+                        data-username="Exeter" data-time="1702443706002"
+                        >pressure</named-content> and its
+                    implication for the reservoir performance in <named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706003_s"
+                        content-type="del" specific-use="1702443706003" xlink:title="Exeter"
+                        alt="preediting" data-type="s-case" data-userid="preediting"
+                        data-username="Exeter" data-time="1702443706003"
+                        >india</named-content><named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706003_s"
+                        content-type="ins" specific-use="1702443706003" xlink:title="Exeter"
+                        alt="preediting" data-type="s-case" data-userid="preediting"
+                        data-username="Exeter" data-time="1702443706003"
+                        >India</named-content></article-title>
+            </title-group>
+            <contrib-group data-group="author" >
+                <contrib contrib-type="author" >
+                    <name >
+                        <surname >Zhang</surname>
+                        <given-names >Hengrong</given-names>
+                    </name>
+                    <xref rid="aff1" ref-type="aff" >1</xref>
+                </contrib>
+                <contrib contrib-type="author" >
+                    <name >
+                        <surname >Xiao</surname>
+                        <given-names >Lizhi</given-names>
+                    </name>
+                </contrib>
+                <contrib contrib-type="author" >
+                    <name >
+                        <surname >Wang</surname>
+                        <given-names >Min</given-names>
+                    </name>
+                </contrib>
+                <contrib contrib-type="author" >
+                    <name >
+                        <surname >Ge</surname>
+                        <given-names >Xinmin</given-names>
+                    </name>
+                </contrib>
+                <contrib contrib-type="author" >
+                    <name >
+                        <surname >Hu</surname>
+                        <given-names >Xiangyang</given-names>
+                    </name>
+                </contrib>
+                <contrib contrib-type="author" >
+                    <name >
+                        <surname >Tan</surname>
+                        <given-names >Wei</given-names>
+                    </name>
+                </contrib>
+                <aff node-insert-xpath="//front//contrib-group"
+                    node-insertafter-xpath="//front//contrib[last()]"  data-id="aff1"><label
+                        >1</label><named-content
+                        content-type="dept" >CSE department</named-content>
+                    , <named-content content-type="institution"
+                        >The cheen university</named-content>
+                    , <named-content content-type="city" >
+                    shizu</named-content>, <named-content content-type="country"
+                        >People's Republic of China</named-content></aff>
+            </contrib-group>
+            <author-notes  />
+            <abstract node-insert-xpath="//front//article-meta"
+                node-insertbefore-xpath="//trans-abstract|//files|//kwd-group|//funding-group|//count|//custom-meta-group"
+                >
+                <title data-level="1" >Abstract</title>
+                <p data-untag="1" >It is challenge to
+                    interpret the gas breakthrough mechanisms, controlling factors and its
+                    relationships with the reservoir parameters for unconventional reservoirs such
+                    as the gas shale, due to the accumulation characteristics of source-reservoir
+                    integration.</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body  data-edited="true" data-edited-version="2">
+        <title data-level="1" data-class="jrnlHead1" data-class-name="Head1"
+            >1. <named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706004_s"
+                content-type="del" specific-use="1702443706004" xlink:title="Exeter"
+                alt="preediting" data-type="s-case" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706004" >Introduction</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706004_s"
+                content-type="ins" specific-use="1702443706004" xlink:title="Exeter"
+                alt="preediting" data-type="s-case" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706004" >introduction</named-content>
+            to <named-content xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706005_s"
+                content-type="del" specific-use="1702443706005" xlink:title="Exeter"
+                alt="preediting" data-type="s-case" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706005" >Cheese</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706005_s"
+                content-type="ins" specific-use="1702443706005" xlink:title="Exeter"
+                alt="preediting" data-type="s-case" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706005" >cheese</named-content></title>
+        <p data-class="jrnlSecPara" >The gas breakthrough
+            pressure is defined as the minimal capillary pressure for gas (the non-wetting phase) to
+            flow continuously in brine saturated porous rock, which is also termed as the threshold
+            pressure, the displacement pressure, and the critical pressure. It acts as one of the
+            most important parameter for the formation evaluation of hydrocarbon reservoirs since it
+            controls the caprock sealing efficiency, reflects the fluid accumulation and migration
+            behavior (Smith et al., 2005<xref 
+                ref-type="bibr" rid="R3" data-tag-desc="AUTHORYEARREF" data-tag-type="AUTHORYEARREF"
+                data-offset="490" data-match="Boulin et al., 2013; " data-pattern=""
+                data-tag-index="2_4" data-citation-string=" R3 "
+                data-track-change="Boulin et al., 2013">3</xref><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1704308681353"
+                content-type="del cts-1" specific-use="1702443717000" xlink:title="Exeter"
+                alt="preediting" data-userid="preediting" data-username="Exeter"
+                data-time="1702443717000" >Boulin et al.,
+            2013</named-content>; ; Zhang and Yu, 2016; Zhou et al., 2019). It is also imperative
+            for many geological fields such as the carbon dioxide (CO<sub
+                >2</sub>) sequestration, the <named-content
+                content-type="jrnlPatterns" data-title="EXPN" data-tag-desc="EXPN"
+                data-tag-type="EXPN" data-offset="652" data-match="enhanced oil recovery"
+                data-pattern="" data-tag-index="" data-abbr="EOR"
+                >enhanced oil recovery</named-content> (<named-content
+                content-type="jrnlPatterns" data-title="ABBR" data-tag-desc="ABBR"
+                data-tag-type="ABBR" data-offset="675" data-match=" (EOR)" data-pattern=""
+                data-tag-index="2_33" >EOR</named-content>),
+            the high-level nuclear waste underground disposal and the landfill final cover (Galle,
+            2000; Li et al., 2006; Ye et al., 2009; Hangx et al., 2010; Heath et al., 2012; Kim and
+            Santamarina, 2013; Gao et al., 2014<xref 
+                ref-type="bibr" rid="R8" data-tag-desc="AUTHORYEARREF" data-tag-type="AUTHORYEARREF"
+                data-offset="893" data-match="Cuss et al., 2015; " data-pattern=""
+                data-tag-index="2_14" data-citation-string=" R8 "
+                data-track-change="Cuss et al., 2015">8</xref><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1704308681354"
+                content-type="del cts-1" specific-use="1702443717000" xlink:title="Exeter"
+                alt="preediting" data-userid="preediting" data-username="Exeter"
+                data-time="1702443717000" >Cuss et al.,
+            2015</named-content>; ; Zhao and Yu, 2017; Xu et al., 2018; Cui et al., 2020<xref
+                 ref-type="bibr" rid="R8"
+                data-tag-desc="AUTHORYEARREF" data-tag-type="AUTHORYEARREF" data-offset="966"
+                data-match="Ng et al., 2015; " data-pattern="" data-tag-index="2_18"
+                data-citation-string=" R8 " data-track-change="Ng et al., 2015">8</xref><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1704308681355"
+                content-type="del cts-1" specific-use="1702443717000" xlink:title="Exeter"
+                alt="preediting" data-userid="preediting" data-username="Exeter"
+                data-time="1702443717000" >Ng et al., 2015</named-content>;
+            ; Guiltinan et al., 2018). <xref 
+                ref-type="fig" rid="F1" data-tag-desc="FIGTBLREF" data-tag-type="FIGTBLREF"
+                data-offset="1008" data-match="figures 1(a),(b)" data-pattern=""
+                data-tag-index="2_1" data-citation-string=" F1 " data-anchor="true">
+                <named-content xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1704308681347"
+                    content-type="del cts-1" specific-use="1702443717000" xlink:title="Exeter"
+                    alt="preediting" data-userid="preediting" data-username="Exeter"
+                    data-time="1702443717000" >figures
+            1(a),(b)</named-content>
+                <named-content xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1704308681347"
+                    content-type="ins cts-1" specific-use="1702443717000" xlink:title="Exeter"
+                    alt="preediting" data-userid="preediting" data-username="Exeter"
+                    data-time="1702443717000" >figure 1a
+            and b</named-content>
+            </xref>.</p>
+        <fig  data-id="BLK_F1" data-stream-name="a_F1" position="float" fig-type="figure">
+            <label >Figure 1.</label>
+            <caption >
+                <title  data-id="F1">(<span data-class="partLabel" data-title="PLBL"
+                        data-offset="11" data-match="a" data-pattern="" data-tag-index=""
+                        >a</span>)<named-content
+                        content-type="nonBreakingSpace" data-title=""
+                        > </named-content>Schematic map
+                    showing the major geological units <named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706002"
+                        content-type="del cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                        alt="preediting" data-userid="preediting" data-username="Exeter"
+                        data-time="1702443706011" >in
+                    absentia</named-content><named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706002"
+                        content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                        alt="preediting"
+                        data-title="changed from 'in&#x2423;absentia' to '&lt;i&gt;in absentia&lt;/i&gt;'"
+                        data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="63"
+                        data-match="in absentia" data-replace="&lt;i&gt;in absentia&lt;/i&gt;"
+                        data-pattern="&lt;i&gt;in absentia&lt;/i&gt;" data-tag-index="4_13"
+                        data-function="addTrackChanges" data-track-change="in absentia"
+                        data-userid="preediting" data-username="Exeter" data-time="1702443706011"
+                        >
+                        <italic >in absentia</italic>
+                    </named-content>
+                    of Iran, modified after [17]; (<span data-class="partLabel" data-title="PLBL"
+                        data-offset="106" data-match="b" data-pattern="" data-tag-index=""
+                        >b</span>)<named-content
+                        content-type="nonBreakingSpace" data-title=""
+                        > </named-content>Simplified
+                    geological map showing Triassic magmatic rocks and the Paleo-Tethyan suture <named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706003"
+                        content-type="del cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                        alt="preediting" data-userid="preediting" data-username="Exeter"
+                        data-time="1702443706011" >a priori</named-content><named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706003"
+                        content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                        alt="preediting"
+                        data-title="changed from 'a&#x2423;priori' to '&lt;i&gt;a priori&lt;/i&gt;'"
+                        data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="196"
+                        data-match="a priori" data-replace="&lt;i&gt;a priori&lt;/i&gt;"
+                        data-pattern="&lt;i&gt;a priori&lt;/i&gt;" data-tag-index="4_16"
+                        data-function="addTrackChanges" data-track-change="a priori"
+                        data-userid="preediting" data-username="Exeter" data-time="1702443706011"
+                        >
+                        <italic >a priori</italic>
+                    </named-content> <named-content
+                        content-type="jrnlPatterns" data-title="VAL" data-tag-desc="VAL,UNT"
+                        data-tag-type="VAL" data-offset="205" data-match="5 %" data-replace="5"
+                        data-pattern="$1" data-tag-index="4_6"
+                        >5</named-content><named-content
+                        content-type="jrnlPatterns" data-title="UNT" data-tag-desc="VAL,UNT"
+                        data-tag-type="UNT" data-offset="206" data-match="5 %" data-replace=" %"
+                        data-pattern=" $2" data-tag-index="4_6"
+                        > %</named-content> in the <named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706004"
+                        content-type="del cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                        alt="preediting" data-userid="preediting" data-username="Exeter"
+                        data-time="1702443706011" >in toto</named-content><named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706004"
+                        content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                        alt="preediting"
+                        data-title="changed from 'in&#x2423;toto' to '&lt;i&gt;in toto&lt;/i&gt;'"
+                        data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="216"
+                        data-match="in toto" data-replace="&lt;i&gt;in toto&lt;/i&gt;"
+                        data-pattern="&lt;i&gt;in toto&lt;/i&gt;" data-tag-index="4_19"
+                        data-function="addTrackChanges" data-track-change="in toto"
+                        data-userid="preediting" data-username="Exeter" data-time="1702443706011"
+                        >
+                        <italic >in toto</italic>
+                    </named-content>
+                    Mashhad area, northeastern <named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706005"
+                        content-type="del cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                        alt="preediting" data-userid="preediting" data-username="Exeter"
+                        data-time="1702443706011" >in utero</named-content><named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706005"
+                        content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                        alt="preediting"
+                        data-title="changed from 'in&#x2423;utero' to '&lt;i&gt;in utero&lt;/i&gt;'"
+                        data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="251"
+                        data-match="in utero" data-replace="&lt;i&gt;in utero&lt;/i&gt;"
+                        data-pattern="&lt;i&gt;in utero&lt;/i&gt;" data-tag-index="4_20"
+                        data-function="addTrackChanges" data-track-change="in utero"
+                        data-userid="preediting" data-username="Exeter" data-time="1702443706011"
+                        >
+                        <italic >in utero</italic>
+                    </named-content>
+                    Iran, modified after [19]; (<span data-class="partLabel" data-title="PLBL"
+                        data-offset="288" data-match="c" data-pattern="" data-tag-index=""
+                        >c</span>)<named-content
+                        content-type="nonBreakingSpace" data-title=""
+                        > </named-content>Geological map
+                    displaying the <named-content xmlns:xlink="http://www.w3.org/1999/xlink"
+                        data-cid="1702443706006" content-type="del cts-1"
+                        specific-use="1702443706011" xlink:title="Exeter" alt="preediting"
+                        data-userid="preediting" data-username="Exeter" data-time="1702443706011"
+                        >pro rata</named-content><named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706006"
+                        content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                        alt="preediting"
+                        data-title="changed from 'pro&#x2423;rata' to '&lt;i&gt;pro rata&lt;/i&gt;'"
+                        data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="321"
+                        data-match="pro rata" data-replace="&lt;i&gt;pro rata&lt;/i&gt;"
+                        data-pattern="&lt;i&gt;pro rata&lt;/i&gt;" data-tag-index="4_23"
+                        data-function="addTrackChanges" data-track-change="pro rata"
+                        data-userid="preediting" data-username="Exeter" data-time="1702443706011"
+                        >
+                        <italic >pro rata</italic>
+                    </named-content>
+                    Triassic granitic <named-content content-type="jrnlPatterns" data-title="VAL"
+                        data-tag-desc="VAL,UNT" data-tag-type="VAL" data-offset="348"
+                        data-match="16%" data-replace="16" data-pattern="$1" data-tag-index="4_7"
+                        >16</named-content><named-content
+                        content-type="jrnlPatterns" data-title="changed '%' to '&#x2423;%'"
+                        data-tag-desc="VAL,UNT" data-tag-type="UNT" data-offset="350"
+                        data-match="16%" data-replace=" %" data-pattern=" $2" data-tag-index="4_7"
+                        data-track-change="%" > %</named-content>
+                    rocks <named-content content-type="jrnlPatterns" data-title="FNW"
+                        data-tag-desc="FNW" data-tag-type="FNW" data-offset="358" data-match="in SE"
+                        data-pattern="" data-tag-index="4_9"
+                        >in SE</named-content> and NW <named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706007"
+                        content-type="del cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                        alt="preediting" data-userid="preediting" data-username="Exeter"
+                        data-time="1702443706011" >in situ</named-content><named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706007"
+                        content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                        alt="preediting"
+                        data-title="changed from 'in&#x2423;situ' to '&lt;i&gt;in situ&lt;/i&gt;'"
+                        data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="371"
+                        data-match="in situ" data-replace="&lt;i&gt;in situ&lt;/i&gt;"
+                        data-pattern="&lt;i&gt;in situ&lt;/i&gt;" data-tag-index="4_26"
+                        data-function="addTrackChanges" data-track-change="in situ"
+                        data-userid="preediting" data-username="Exeter" data-time="1702443706011"
+                        >
+                        <italic >in situ</italic>
+                    </named-content>
+                    Mashhad, after [28]; (<span data-class="partLabel" data-title="PLBL"
+                        data-offset="401" data-match="d" data-pattern="" data-tag-index=""
+                        >d</span>)<named-content
+                        content-type="nonBreakingSpace" data-title=""
+                        > </named-content>Geological map of
+                    the Torbat-e-Jam intrusion, after [14].</title>
+            </caption>
+            <graphic xmlns:xlink="http://www.w3.org/1999/xlink"
+                xlink:href="/resources/_cache/FPO.tif.JPEG"
+                 />
+        </fig>
+        <p data-class="jrnlSecPara" >The latin words like <named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706008"
+                 content-type="del cts-1"
+                specific-use="1702443706011" xlink:title="Exeter" alt="preediting"
+                data-title="Deleted by Exeter - 1702443706011" data-track-detail=""
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011">per se</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706008"
+                 content-type="ins cts-1"
+                specific-use="1702443706011" xlink:title="Exeter" alt="preediting"
+                data-title="changed from 'per&#x2423;se' to '&lt;i&gt;per se&lt;/i&gt;'"
+                data-track-detail="" data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="21"
+                data-match="per se" data-replace="&lt;i&gt;per se&lt;/i&gt;"
+                data-pattern="&lt;i&gt;per se&lt;/i&gt;" data-tag-index="3_8"
+                data-function="addTrackChanges" data-track-change="per se" data-userid="preediting"
+                data-username="Exeter" data-time="1702443706011">
+                <italic >per se</italic>
+            </named-content>
+            , <named-content xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706009"
+                 content-type="del cts-1"
+                specific-use="1702443706011" xlink:title="Exeter" alt="preediting"
+                data-title="Deleted by Exeter - 1702443706011" data-track-detail=""
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011">a priori</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706009"
+                 content-type="ins cts-1"
+                specific-use="1702443706011" xlink:title="Exeter" alt="preediting"
+                data-title="changed from 'a&#x2423;priori' to '&lt;i&gt;a priori&lt;/i&gt;'"
+                data-track-detail="" data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="29"
+                data-match="a priori" data-replace="&lt;i&gt;a priori&lt;/i&gt;"
+                data-pattern="&lt;i&gt;a priori&lt;/i&gt;" data-tag-index="3_9"
+                data-function="addTrackChanges" data-track-change="a priori"
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011">
+                <italic >a priori</italic>
+            </named-content>
+            , <named-content xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706010"
+                 content-type="del cts-1"
+                specific-use="1702443706011" xlink:title="Exeter" alt="preediting"
+                data-title="Deleted by Exeter - 1702443706011" data-track-detail=""
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011">in
+            absentia</named-content><named-content xmlns:xlink="http://www.w3.org/1999/xlink"
+                data-cid="1702443706010" 
+                content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting"
+                data-title="changed from 'in&#x2423;absentia' to '&lt;i&gt;in absentia&lt;/i&gt;'"
+                data-track-detail="" data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="39"
+                data-match="in absentia" data-replace="&lt;i&gt;in absentia&lt;/i&gt;"
+                data-pattern="&lt;i&gt;in absentia&lt;/i&gt;" data-tag-index="3_10"
+                data-function="addTrackChanges" data-track-change="in absentia"
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011">
+                <italic >in absentia</italic>
+            </named-content>
+            , <named-content xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706011"
+                 content-type="del cts-1"
+                specific-use="1702443706011" xlink:title="Exeter" alt="preediting"
+                data-title="Deleted by Exeter - 1702443706011" data-track-detail=""
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011">in
+            infinitum</named-content><named-content xmlns:xlink="http://www.w3.org/1999/xlink"
+                data-cid="1702443706011" 
+                content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting"
+                data-title="changed from 'in&#x2423;infinitum' to '&lt;i&gt;in infinitum&lt;/i&gt;'"
+                data-track-detail="" data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="52"
+                data-match="in infinitum" data-replace="&lt;i&gt;in infinitum&lt;/i&gt;"
+                data-pattern="&lt;i&gt;in infinitum&lt;/i&gt;" data-tag-index="3_11"
+                data-function="addTrackChanges" data-track-change="in infinitum"
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011">
+                <italic >in infinitum</italic>
+            </named-content>
+            , <named-content xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706012"
+                 content-type="del cts-1"
+                specific-use="1702443706011" xlink:title="Exeter" alt="preediting"
+                data-title="Deleted by Exeter - 1702443706011" data-track-detail=""
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011">in situ</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706012"
+                 content-type="ins cts-1"
+                specific-use="1702443706011" xlink:title="Exeter" alt="preediting"
+                data-title="changed from 'in&#x2423;situ' to '&lt;i&gt;in situ&lt;/i&gt;'"
+                data-track-detail="" data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="66"
+                data-match="in situ" data-replace="&lt;i&gt;in situ&lt;/i&gt;"
+                data-pattern="&lt;i&gt;in situ&lt;/i&gt;" data-tag-index="3_12"
+                data-function="addTrackChanges" data-track-change="in situ" data-userid="preediting"
+                data-username="Exeter" data-time="1702443706011">
+                <italic >in situ</italic>
+            </named-content>
+            , <named-content xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706013"
+                 content-type="del cts-1"
+                specific-use="1702443706011" xlink:title="Exeter" alt="preediting"
+                data-title="Deleted by Exeter - 1702443706011" data-track-detail=""
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011">in toto</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706013"
+                 content-type="ins cts-1"
+                specific-use="1702443706011" xlink:title="Exeter" alt="preediting"
+                data-title="changed from 'in&#x2423;toto' to '&lt;i&gt;in toto&lt;/i&gt;'"
+                data-track-detail="" data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="75"
+                data-match="in toto" data-replace="&lt;i&gt;in toto&lt;/i&gt;"
+                data-pattern="&lt;i&gt;in toto&lt;/i&gt;" data-tag-index="3_13"
+                data-function="addTrackChanges" data-track-change="in toto" data-userid="preediting"
+                data-username="Exeter" data-time="1702443706011">
+                <italic >in toto</italic>
+            </named-content>
+            , <named-content xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706014"
+                 content-type="del cts-1"
+                specific-use="1702443706011" xlink:title="Exeter" alt="preediting"
+                data-title="Deleted by Exeter - 1702443706011" data-track-detail=""
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011">in utero</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706014"
+                 content-type="ins cts-1"
+                specific-use="1702443706011" xlink:title="Exeter" alt="preediting"
+                data-title="changed from 'in&#x2423;utero' to '&lt;i&gt;in utero&lt;/i&gt;'"
+                data-track-detail="" data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="84"
+                data-match="in utero" data-replace="&lt;i&gt;in utero&lt;/i&gt;"
+                data-pattern="&lt;i&gt;in utero&lt;/i&gt;" data-tag-index="3_14"
+                data-function="addTrackChanges" data-track-change="in utero"
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011">
+                <italic >in utero</italic>
+            </named-content>
+            , <named-content xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706015"
+                 content-type="del cts-1"
+                specific-use="1702443706011" xlink:title="Exeter" alt="preediting"
+                data-title="Deleted by Exeter - 1702443706011" data-track-detail=""
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011">in vitro</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706015"
+                 content-type="ins cts-1"
+                specific-use="1702443706011" xlink:title="Exeter" alt="preediting"
+                data-title="changed from 'in&#x2423;vitro' to '&lt;i&gt;in vitro&lt;/i&gt;'"
+                data-track-detail="" data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="94"
+                data-match="in vitro" data-replace="&lt;i&gt;in vitro&lt;/i&gt;"
+                data-pattern="&lt;i&gt;in vitro&lt;/i&gt;" data-tag-index="3_15"
+                data-function="addTrackChanges" data-track-change="in vitro"
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011">
+                <italic >in vitro</italic>
+            </named-content>
+            , <named-content xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706016"
+                 content-type="del cts-1"
+                specific-use="1702443706011" xlink:title="Exeter" alt="preediting"
+                data-title="Deleted by Exeter - 1702443706011" data-track-detail=""
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011">in vivo</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706016"
+                 content-type="ins cts-1"
+                specific-use="1702443706011" xlink:title="Exeter" alt="preediting"
+                data-title="changed from 'in&#x2423;vivo' to '&lt;i&gt;in vivo&lt;/i&gt;'"
+                data-track-detail="" data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="104"
+                data-match="in vivo" data-replace="&lt;i&gt;in vivo&lt;/i&gt;"
+                data-pattern="&lt;i&gt;in vivo&lt;/i&gt;" data-tag-index="3_16"
+                data-function="addTrackChanges" data-track-change="in vivo" data-userid="preediting"
+                data-username="Exeter" data-time="1702443706011">
+                <italic >in vivo</italic>
+            </named-content>
+            , <named-content xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706017"
+                 content-type="del cts-1"
+                specific-use="1702443706011" xlink:title="Exeter" alt="preediting"
+                data-title="Deleted by Exeter - 1702443706011" data-track-detail=""
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011">pro rata</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706017"
+                 content-type="ins cts-1"
+                specific-use="1702443706011" xlink:title="Exeter" alt="preediting"
+                data-title="changed from 'pro&#x2423;rata' to '&lt;i&gt;pro rata&lt;/i&gt;'"
+                data-track-detail="" data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="113"
+                data-match="pro rata" data-replace="&lt;i&gt;pro rata&lt;/i&gt;"
+                data-pattern="&lt;i&gt;pro rata&lt;/i&gt;" data-tag-index="3_17"
+                data-function="addTrackChanges" data-track-change="pro rata"
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011">
+                <italic >pro rata</italic>
+            </named-content>
+            should be in italics. Whereas, words like <named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" 
+                data-cid="fb5af97e-ee9c-4fd3-8abd-e2d3572f0b94" content-type="jrnlPatterns"
+                specific-use="" xlink:title="" alt="" data-title="FNW" data-track-detail=""
+                data-tag-desc="FNW" data-tag-type="FNW" data-offset="164" data-match="ad libitum"
+                data-pattern="" data-tag-index="3_6" data-time="" data-username="" data-userid="">ad
+            libitum</named-content>, <named-content xmlns:xlink="http://www.w3.org/1999/xlink"
+                
+                data-cid="2ff9f3ad-3456-4ed7-aaa7-3a967a4aac63" content-type="jrnlPatterns"
+                specific-use="" xlink:title="" alt="" data-title="FNW" data-track-detail=""
+                data-tag-desc="FNW" data-tag-type="FNW" data-offset="176" data-match="de novo"
+                data-pattern="" data-tag-index="3_7" data-time="" data-username="" data-userid="">de
+            novo</named-content>, versus should not be italics. But these words should also be
+            italics <named-content xmlns:xlink="http://www.w3.org/1999/xlink"
+                data-cid="1702443706018" 
+                content-type="del cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-title="Deleted by Exeter - 1702443706011" data-track-detail=""
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011">sensu</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706018"
+                 content-type="ins cts-1"
+                specific-use="1702443706011" xlink:title="Exeter" alt="preediting"
+                data-title="changed from 'sensu' to '&lt;i&gt;sensu&lt;/i&gt;'" data-track-detail=""
+                data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="254" data-match="sensu"
+                data-replace="&lt;i&gt;sensu&lt;/i&gt;" data-pattern="&lt;i&gt;sensu&lt;/i&gt;"
+                data-tag-index="3_18" data-function="addTrackChanges" data-track-change="sensu"
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011">
+                <italic >sensu</italic>
+            </named-content>
+            and also <named-content xmlns:xlink="http://www.w3.org/1999/xlink"
+                data-cid="1702443706019" 
+                content-type="del cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-title="Deleted by Exeter - 1702443706011" data-track-detail=""
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011">ab initio</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706019"
+                 content-type="ins cts-1"
+                specific-use="1702443706011" xlink:title="Exeter" alt="preediting"
+                data-title="changed from 'ab&#x2423;initio' to '&lt;i&gt;ab initio&lt;/i&gt;'"
+                data-track-detail="" data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="269"
+                data-match="ab initio" data-replace="&lt;i&gt;ab initio&lt;/i&gt;"
+                data-pattern="&lt;i&gt;ab initio&lt;/i&gt;" data-tag-index="3_19"
+                data-function="addTrackChanges" data-track-change="ab initio"
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011">
+                <italic >ab initio</italic>
+            </named-content>
+            .</p>
+        <p data-class="jrnlSecPara" ><named-content
+                content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="0"
+                data-match="ADEM =acute" data-replace="ADEM" data-pattern="$1" data-tag-index="5_1"
+                >ADEM</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="4"
+                data-match="ADEM =acute" data-replace=" =" data-pattern="default"
+                data-tag-index="5_1" > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="6"
+                data-match="ADEM =acute" data-replace="acute" data-pattern="$3" data-tag-index="5_1"
+                >acute</named-content> disseminated
+            encephalomyelitis; <named-content content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="44"
+                data-match="MOGAD =myelin" data-replace="MOGAD" data-pattern="$1"
+                data-tag-index="5_2" >MOGAD</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="49"
+                data-match="MOGAD =myelin" data-replace=" =" data-pattern="default"
+                data-tag-index="5_2" > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="51"
+                data-match="MOGAD =myelin" data-replace="myelin" data-pattern="$3"
+                data-tag-index="5_2" >myelin</named-content>
+            oligodendrocyte <named-content xmlns:xlink="http://www.w3.org/1999/xlink"
+                data-cid="1702443706020" content-type="del cts-1" specific-use="1702443706011"
+                xlink:title="Exeter" alt="preediting" data-userid="preediting"
+                data-username="Exeter" data-time="1702443706011"
+                >in vitro</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706020"
+                content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting"
+                data-title="changed from 'in&#x2423;vitro' to '&lt;i&gt;in vitro&lt;/i&gt;'"
+                data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="74" data-match="in vitro"
+                data-replace="&lt;i&gt;in vitro&lt;/i&gt;"
+                data-pattern="&lt;i&gt;in vitro&lt;/i&gt;" data-tag-index="5_31"
+                data-function="addTrackChanges" data-track-change="in vitro"
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011"
+                >
+                <italic >in vitro</italic>
+            </named-content>
+            , <named-content xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706021"
+                content-type="del cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706011" >in vivo</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706021"
+                content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting"
+                data-title="changed from 'in&#x2423;vivo' to '&lt;i&gt;in vivo&lt;/i&gt;'"
+                data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="84" data-match="in vivo"
+                data-replace="&lt;i&gt;in vivo&lt;/i&gt;" data-pattern="&lt;i&gt;in vivo&lt;/i&gt;"
+                data-tag-index="5_32" data-function="addTrackChanges" data-track-change="in vivo"
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011"
+                >
+                <italic >in vivo</italic>
+            </named-content>
+            glycoprotein antibody-associated disease; <named-content content-type="jrnlPatterns"
+                data-title="VAR" data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR"
+                data-offset="134" data-match="MS =multiple" data-replace="MS" data-pattern="$1"
+                data-tag-index="5_3" >MS</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="136"
+                data-match="MS =multiple" data-replace=" =" data-pattern="default"
+                data-tag-index="5_3" > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="138"
+                data-match="MS =multiple" data-replace="multiple" data-pattern="$3"
+                data-tag-index="5_3" >multiple</named-content>
+            sclerosis; <named-content content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="158"
+                data-match="NMOSD =neuromyelitis" data-replace="NMOSD" data-pattern="$1"
+                data-tag-index="5_4" >NMOSD</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="163"
+                data-match="NMOSD =neuromyelitis" data-replace=" =" data-pattern="default"
+                data-tag-index="5_4" > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="165"
+                data-match="NMOSD =neuromyelitis" data-replace="neuromyelitis" data-pattern="$3"
+                data-tag-index="5_4" >neuromyelitis</named-content>
+            optica spectrum disorders; <named-content content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="206"
+                data-match="CBC =complete" data-replace="CBC" data-pattern="$1" data-tag-index="5_5"
+                >CBC</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="209"
+                data-match="CBC =complete" data-replace=" =" data-pattern="default"
+                data-tag-index="5_5" > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="211"
+                data-match="CBC =complete" data-replace="complete" data-pattern="$3"
+                data-tag-index="5_5" >complete</named-content>
+            blood count; <named-content content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="233"
+                data-match="CMP =comprehensive" data-replace="CMP" data-pattern="$1"
+                data-tag-index="5_6" >CMP</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="236"
+                data-match="CMP =comprehensive" data-replace=" =" data-pattern="default"
+                data-tag-index="5_6" > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="238"
+                data-match="CMP =comprehensive" data-replace="comprehensive" data-pattern="$3"
+                data-tag-index="5_6" >comprehensive</named-content>
+            metabolic panel; <named-content content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="269"
+                data-match="CRP =c" data-replace="CRP" data-pattern="$1" data-tag-index="5_7"
+                >CRP</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="272"
+                data-match="CRP =c" data-replace=" =" data-pattern="default" data-tag-index="5_7"
+                > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="274"
+                data-match="CRP =c" data-replace="c" data-pattern="$3" data-tag-index="5_7"
+                >c</named-content>-reactive protein; <named-content
+                content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="294"
+                data-match="ESR =erythrocyte" data-replace="ESR" data-pattern="$1"
+                data-tag-index="5_8" >ESR</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="297"
+                data-match="ESR =erythrocyte" data-replace=" =" data-pattern="default"
+                data-tag-index="5_8" > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="299"
+                data-match="ESR =erythrocyte" data-replace="erythrocyte" data-pattern="$3"
+                data-tag-index="5_8" >erythrocyte</named-content>
+            sedimentation rate; <named-content content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="331"
+                data-match="RVP =respiratory" data-replace="RVP" data-pattern="$1"
+                data-tag-index="5_9" >RVP</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="334"
+                data-match="RVP =respiratory" data-replace=" =" data-pattern="default"
+                data-tag-index="5_9" > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="336"
+                data-match="RVP =respiratory" data-replace="respiratory" data-pattern="$3"
+                data-tag-index="5_9" >respiratory</named-content>
+            viral panel; <named-content content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="361"
+                data-match="BCx =blood" data-replace="BCx" data-pattern="$1" data-tag-index="5_10"
+                >BCx</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="364"
+                data-match="BCx =blood" data-replace=" =" data-pattern="default"
+                data-tag-index="5_10" > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="366"
+                data-match="BCx =blood" data-replace="blood" data-pattern="$3" data-tag-index="5_10"
+                >blood</named-content> culture; <named-content
+                content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="381"
+                data-match="CDS1=Mayo" data-replace="CDS1" data-pattern="$1" data-tag-index="5_11"
+                >CDS1</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="385"
+                data-match="CDS1=Mayo" data-replace="=" data-pattern="default" data-tag-index="5_11"
+                >=</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="386"
+                data-match="CDS1=Mayo" data-replace="Mayo" data-pattern="$3" data-tag-index="5_11"
+                >Mayo</named-content> Clinic Serum CNS
+            Demyelinating Disease Panel; <named-content content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="437"
+                data-match="ENS2=Mayo" data-replace="ENS2" data-pattern="$1" data-tag-index="5_12"
+                >ENS2</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="441"
+                data-match="ENS2=Mayo" data-replace="=" data-pattern="default" data-tag-index="5_12"
+                >=</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="442"
+                data-match="ENS2=Mayo" data-replace="Mayo" data-pattern="$3" data-tag-index="5_12"
+                >Mayo</named-content> Clinic Serum
+            Autoimmune Encephalopathy Panel; <named-content content-type="jrnlPatterns"
+                data-title="VAR" data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR"
+                data-offset="493" data-match="infx =infection" data-replace="infx" data-pattern="$1"
+                data-tag-index="5_13" >infx</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="497"
+                data-match="infx =infection" data-replace=" =" data-pattern="default"
+                data-tag-index="5_13" > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="499"
+                data-match="infx =infection" data-replace="infection" data-pattern="$3"
+                data-tag-index="5_13" >infection</named-content>
+            ; <named-content content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="510"
+                data-match="AI =autoimmune" data-replace="AI" data-pattern="$1"
+                data-tag-index="5_14" >AI</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="512"
+                data-match="AI =autoimmune" data-replace=" =" data-pattern="default"
+                data-tag-index="5_14" > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="514"
+                data-match="AI =autoimmune" data-replace="autoimmune" data-pattern="$3"
+                data-tag-index="5_14" >autoimmune</named-content>
+            ; <named-content content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="526"
+                data-match="met =metabolic" data-replace="met" data-pattern="$1"
+                data-tag-index="5_15" >met</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="529"
+                data-match="met =metabolic" data-replace=" =" data-pattern="default"
+                data-tag-index="5_15" > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="531"
+                data-match="met =metabolic" data-replace="metabolic" data-pattern="$3"
+                data-tag-index="5_15" >metabolic</named-content>
+            ; <named-content content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="542"
+                data-match="gen =genetic" data-replace="gen" data-pattern="$1" data-tag-index="5_16"
+                >gen</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="545"
+                data-match="gen =genetic" data-replace=" =" data-pattern="default"
+                data-tag-index="5_16" > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="547"
+                data-match="gen =genetic" data-replace="genetic" data-pattern="$3"
+                data-tag-index="5_16" >genetic</named-content>
+            ; <named-content content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="556"
+                data-match="neo =neoplastic" data-replace="neo" data-pattern="$1"
+                data-tag-index="5_17" >neo</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="559"
+                data-match="neo =neoplastic" data-replace=" =" data-pattern="default"
+                data-tag-index="5_17" > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="561"
+                data-match="neo =neoplastic" data-replace="neoplastic" data-pattern="$3"
+                data-tag-index="5_17" >neoplastic</named-content>;
+            w/<named-content content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="575"
+                data-match="wo =with and" data-replace="wo" data-pattern="$1" data-tag-index="5_18"
+                >wo</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="577"
+                data-match="wo =with and" data-replace=" =" data-pattern="default"
+                data-tag-index="5_18" > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="579"
+                data-match="wo =with and" data-replace="with" data-pattern="$3"
+                data-tag-index="5_18" >with</named-content><named-content
+                content-type="jrnlPatterns" data-title="UNT"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="UNT" data-offset="583"
+                data-match="wo =with and" data-replace=" and" data-pattern=" $6"
+                data-tag-index="5_18" > and</named-content>
+            without contrast; <named-content content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="606"
+                data-match="NMS =nuclear" data-replace="NMS" data-pattern="$1" data-tag-index="5_19"
+                >NMS</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="609"
+                data-match="NMS =nuclear" data-replace=" =" data-pattern="default"
+                data-tag-index="5_19" > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="611"
+                data-match="NMS =nuclear" data-replace="nuclear" data-pattern="$3"
+                data-tag-index="5_19" >nuclear</named-content>
+            magnetic resonance spectroscopy; <named-content content-type="jrnlPatterns"
+                data-title="VAR" data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR"
+                data-offset="652" data-match="rout =routine" data-replace="rout" data-pattern="$1"
+                data-tag-index="5_20" >rout</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="656"
+                data-match="rout =routine" data-replace=" =" data-pattern="default"
+                data-tag-index="5_20" > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="658"
+                data-match="rout =routine" data-replace="routine" data-pattern="$3"
+                data-tag-index="5_20" >routine</named-content>
+            ; <named-content content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="667"
+                data-match="cx =culture" data-replace="cx" data-pattern="$1" data-tag-index="5_21"
+                >cx</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="669"
+                data-match="cx =culture" data-replace=" =" data-pattern="default"
+                data-tag-index="5_21" > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="671"
+                data-match="cx =culture" data-replace="culture" data-pattern="$3"
+                data-tag-index="5_21" >culture</named-content>
+            ; <named-content content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="680"
+                data-match="OCB =oligoclonal" data-replace="OCB" data-pattern="$1"
+                data-tag-index="5_22" >OCB</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="683"
+                data-match="OCB =oligoclonal" data-replace=" =" data-pattern="default"
+                data-tag-index="5_22" > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="685"
+                data-match="OCB =oligoclonal" data-replace="oligoclonal" data-pattern="$3"
+                data-tag-index="5_22" >oligoclonal</named-content>
+            bands; IgG <named-content content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="708"
+                data-match="Ix =IgG" data-replace="Ix" data-pattern="$1" data-tag-index="5_23"
+                >Ix</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="710"
+                data-match="Ix =IgG" data-replace=" =" data-pattern="default" data-tag-index="5_23"
+                > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="712"
+                data-match="Ix =IgG" data-replace="IgG" data-pattern="$3" data-tag-index="5_23"
+                >IgG</named-content> index; <named-content
+                content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="723"
+                data-match="ENC2=Mayo" data-replace="ENC2" data-pattern="$1" data-tag-index="5_24"
+                >ENC2</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="727"
+                data-match="ENC2=Mayo" data-replace="=" data-pattern="default" data-tag-index="5_24"
+                >=</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="728"
+                data-match="ENC2=Mayo" data-replace="Mayo" data-pattern="$3" data-tag-index="5_24"
+                >Mayo</named-content> Clinic CSF Autoimmune
+            Encephalopathy Panel; <named-content content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="777"
+                data-match="NMOFC =Mayo" data-replace="NMOFC" data-pattern="$1"
+                data-tag-index="5_25" >NMOFC</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="782"
+                data-match="NMOFC =Mayo" data-replace=" =" data-pattern="default"
+                data-tag-index="5_25" > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="784"
+                data-match="NMOFC =Mayo" data-replace="Mayo" data-pattern="$3" data-tag-index="5_25"
+                >Mayo</named-content> Clinic CSF
+            Aquaporin-4-IgG; <named-content content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="817"
+                data-match="HLH =hemophagocytic" data-replace="HLH" data-pattern="$1"
+                data-tag-index="5_26" >HLH</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="820"
+                data-match="HLH =hemophagocytic" data-replace=" =" data-pattern="default"
+                data-tag-index="5_26" > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="822"
+                data-match="HLH =hemophagocytic" data-replace="hemophagocytic" data-pattern="$3"
+                data-tag-index="5_26" >hemophagocytic</named-content>
+            lymphohistiocytosis; <named-content content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="858"
+                data-match="bx =biopsy" data-replace="bx" data-pattern="$1" data-tag-index="5_27"
+                >bx</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="860"
+                data-match="bx =biopsy" data-replace=" =" data-pattern="default"
+                data-tag-index="5_27" > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="862"
+                data-match="bx =biopsy" data-replace="biopsy" data-pattern="$3"
+                data-tag-index="5_27" >biopsy</named-content>
+            ; <named-content content-type="jrnlPatterns" data-title="VAR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="870"
+                data-match="tx =treatment" data-replace="tx" data-pattern="$1" data-tag-index="5_28"
+                >tx</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="872"
+                data-match="tx =treatment" data-replace=" =" data-pattern="default"
+                data-tag-index="5_28" > =</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="874"
+                data-match="tx =treatment" data-replace="treatment" data-pattern="$3"
+                data-tag-index="5_28" >treatment</named-content></p>
+        <title data-level="2" data-class="jrnlHead2" data-class-name="Head2"
+            >2. <named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706006_s"
+                content-type="del" specific-use="1702443706006" xlink:title="Exeter"
+                alt="preediting" data-type="s-case" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706006" >Methods</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706006_s"
+                content-type="ins" specific-use="1702443706006" xlink:title="Exeter"
+                alt="preediting" data-type="s-case" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706006" >methods</named-content>
+            of collecting samples of cheese</title>
+        <title data-level="2" data-class="jrnlHead2" >2.1. <named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706007_s"
+                content-type="del" specific-use="1702443706007" xlink:title="Exeter"
+                alt="preediting" data-type="s-case" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706007" >Collection</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706007_s"
+                content-type="ins" specific-use="1702443706007" xlink:title="Exeter"
+                alt="preediting" data-type="s-case" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706007" >collection</named-content>
+            and enrichment of samples</title>
+        <p data-class="jrnlSecPara" >A total of <named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706022"
+                content-type="del cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706011" >two-fold</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706022"
+                content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-title="changed from 'two-fold' to 'twofold'"
+                data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="11" data-match="two-fold"
+                data-replace="twofold" data-pattern="twofold" data-tag-index="8_16"
+                data-function="addTrackChanges" data-track-change="two-fold"
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011"
+                >twofold</named-content> and <named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706023"
+                content-type="del cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706011" >three-fold</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706023"
+                content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-title="changed from 'three-fold' to 'threefold'"
+                data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="24" data-match="three-fold"
+                data-replace="threefold" data-pattern="threefold" data-tag-index="8_17"
+                data-function="addTrackChanges" data-track-change="three-fold"
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011"
+                >threefold</named-content> local cheese
+            samples <named-content content-type="jrnlPatterns"
+                data-title="changed 'et&#x2423;al' to '&lt;i&gt;et&#x2423;al&lt;/i&gt;'"
+                data-tag-desc="ETL" data-tag-type="ETL" data-offset="56" data-match="et al"
+                data-replace="&lt;i&gt;et al&lt;/i&gt;" data-pattern="&lt;i&gt;et al&lt;/i&gt;"
+                data-tag-index="8_11" data-track-change="et al"
+                >
+                <italic >et al</italic>
+            </named-content>.,
+            made of cow&#x2019;s <named-content content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAL,UNT" data-tag-type="VAL" data-offset="80" data-match="12 %"
+                data-replace="12" data-pattern="$1" data-tag-index="8_2"
+                >12</named-content><named-content
+                content-type="jrnlPatterns" data-title="UNT" data-tag-desc="VAL,UNT"
+                data-tag-type="UNT" data-offset="82" data-match="12 %" data-replace=" %"
+                data-pattern=" $2" data-tag-index="8_2" > %</named-content>
+            milk <named-content content-type="jrnlPatterns"
+                data-title="changed 'et&#x2423;al' to '&lt;i&gt;et&#x2423;al&lt;/i&gt;'"
+                data-tag-desc="ETL" data-tag-type="ETL" data-offset="90" data-match="et al"
+                data-replace="&lt;i&gt;et al&lt;/i&gt;" data-pattern="&lt;i&gt;et al&lt;/i&gt;"
+                data-tag-index="8_12" data-track-change="et al"
+                >
+                <italic >et al</italic>
+            </named-content>
+            were collected <italic >libitum</italic>, <named-content
+                content-type="jrnlPatterns" data-title="FNW" data-tag-desc="FNW" data-tag-type="FNW"
+                data-offset="120" data-match="de novo" data-pattern="" data-tag-index="8_13"
+                >
+                <italic >de novo</italic>
+            </named-content>
+            , <italic >versus</italic> randomly from
+            different places in Bangladesh in 2018. Each sample (<named-content
+                content-type="jrnlPatterns" data-title="VAL" data-tag-desc="VAL,UNT"
+                data-tag-type="VAL" data-offset="203" data-match="25&#x2009;g" data-replace="25"
+                data-pattern="$1" data-tag-index="8_3" >25</named-content><named-content
+                content-type="jrnlPatterns" data-title="changed '&#x2009;g' to '&#x2423;&#x2009;g'"
+                data-tag-desc="VAL,UNT" data-tag-type="UNT" data-offset="205"
+                data-match="25&#x2009;g" data-replace=" &#x2009;g" data-pattern=" $2"
+                data-tag-index="8_3" data-track-change="&#x2009;g"
+                > &#x2009;g</named-content>) dissolved
+            separately into <named-content content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAL,UNT" data-tag-type="VAL" data-offset="237"
+                data-match="225&#x2009;ml" data-replace="225" data-pattern="$1" data-tag-index="8_4"
+                >225</named-content><named-content
+                content-type="jrnlPatterns"
+                data-title="changed '&#x2009;ml' to '&#x2423;&#x2009;ml'" data-tag-desc="VAL,UNT"
+                data-tag-type="UNT" data-offset="240" data-match="225&#x2009;ml"
+                data-replace=" &#x2009;ml" data-pattern=" $2" data-tag-index="8_4"
+                data-track-change="&#x2009;ml" > &#x2009;ml</named-content>
+            of sterile buffer peptone water and blended with a Stomacher machine (Stomacher 400,
+            Seward) for <named-content content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAL,UNT" data-tag-type="VAL" data-offset="343"
+                data-match="5&#x2009;min" data-replace="5" data-pattern="$1" data-tag-index="8_5"
+                >5</named-content><named-content
+                content-type="jrnlPatterns"
+                data-title="changed '&#x2009;min' to '&#x2423;&#x2009;min'" data-tag-desc="VAL,UNT"
+                data-tag-type="UNT" data-offset="344" data-match="5&#x2009;min"
+                data-replace=" &#x2009;min" data-pattern=" $2" data-tag-index="8_5"
+                data-track-change="&#x2009;min" >
+            &#x2009;min</named-content>. The samples were <named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706024"
+                content-type="del cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706011" >sensu</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706024"
+                content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-title="changed from 'sensu' to '&lt;i&gt;sensu&lt;/i&gt;'"
+                data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="369" data-match="sensu"
+                data-replace="&lt;i&gt;sensu&lt;/i&gt;" data-pattern="&lt;i&gt;sensu&lt;/i&gt;"
+                data-tag-index="8_30" data-function="addTrackChanges" data-track-change="sensu"
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011"
+                >
+                <italic >sensu</italic>
+            </named-content>
+            and also <named-content xmlns:xlink="http://www.w3.org/1999/xlink"
+                data-cid="1702443706025" content-type="del cts-1" specific-use="1702443706011"
+                xlink:title="Exeter" alt="preediting" data-userid="preediting"
+                data-username="Exeter" data-time="1702443706011"
+                >ab initio</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706025"
+                content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting"
+                data-title="changed from 'ab&#x2423;initio' to '&lt;i&gt;ab initio&lt;/i&gt;'"
+                data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="384" data-match="ab initio"
+                data-replace="&lt;i&gt;ab initio&lt;/i&gt;"
+                data-pattern="&lt;i&gt;ab initio&lt;/i&gt;" data-tag-index="8_31"
+                data-function="addTrackChanges" data-track-change="ab initio"
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011"
+                >
+                <italic >ab initio</italic>
+            </named-content>
+            then enriched in <italic >Lactobacillus</italic>
+            de <named-content content-type="jrnlPatterns" data-title="EXPN" data-tag-desc="EXPN"
+                data-tag-type="EXPN" data-offset="428" data-match="Man, Ragosa Sharpe"
+                data-pattern="" data-tag-index="" data-abbr="MRS"
+                >Man, Ragosa Sharpe</named-content> (<named-content
+                content-type="jrnlPatterns" data-title="ABBR" data-tag-desc="ABBR"
+                data-tag-type="ABBR" data-offset="448" data-match=" (MRS)" data-pattern=""
+                data-tag-index="8_14" >MRS</named-content>)
+            broth medium (Hi-Media, India) for <named-content content-type="jrnlPatterns"
+                data-title="VAL" data-tag-desc="VAL,UNT" data-tag-type="VAL" data-offset="488"
+                data-match="24&#x2009;h" data-replace="24" data-pattern="$1" data-tag-index="8_6"
+                >24</named-content><named-content
+                content-type="jrnlPatterns" data-title="changed '&#x2009;h' to '&#x2423;&#x2009;h'"
+                data-tag-desc="VAL,UNT" data-tag-type="UNT" data-offset="490"
+                data-match="24&#x2009;h" data-replace=" &#x2009;h" data-pattern=" $2"
+                data-tag-index="8_6" data-track-change="&#x2009;h"
+                > &#x2009;h</named-content> at <named-content
+                content-type="jrnlPatterns" data-title="VAL" data-tag-desc="VAL,UNT"
+                data-tag-type="VAL" data-offset="498" data-match="37 &#xb0;C" data-replace="37"
+                data-pattern="$1" data-tag-index="8_7" >37</named-content><named-content
+                content-type="jrnlPatterns" data-title="changed '&#x2423;&#xb0;C' to '&#xb0;C'"
+                data-tag-desc="VAL,UNT" data-tag-type="UNT" data-offset="500"
+                data-match="37 &#xb0;C" data-replace="&#xb0;C" data-pattern="&#xb0;C"
+                data-tag-index="8_7" data-track-change=" &#xb0;C"
+                >&#xb0;C</named-content> and <named-content
+                content-type="jrnlPatterns" data-title="VAL" data-tag-desc="VAL,UNT"
+                data-tag-type="VAL" data-offset="509" data-match="18 &#xb0;C" data-replace="18"
+                data-pattern="$1" data-tag-index="8_8" >18</named-content><named-content
+                content-type="jrnlPatterns" data-title="changed '&#x2423;&#xb0;C' to '&#xb0;C'"
+                data-tag-desc="VAL,UNT" data-tag-type="UNT" data-offset="511"
+                data-match="18 &#xb0;C" data-replace="&#xb0;C" data-pattern="&#xb0;C"
+                data-tag-index="8_8" data-track-change=" &#xb0;C"
+                >&#xb0;C</named-content>. The sample <named-content
+                content-type="jrnlPatterns" data-title="changed from 'percent' to 'percent'"
+                data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="528" data-match="percent"
+                data-replace="percent" data-pattern="$1" data-tag-index="8_40"
+                data-function="addTrackChanges" >percent</named-content>
+            was not upto the expected per cent, it was a total of <named-content
+                content-type="jrnlPatterns" data-title="VAL" data-tag-desc="VAL,UNT"
+                data-tag-type="VAL" data-offset="590" data-match="15 percent" data-replace="15"
+                data-pattern="$1" data-tag-index="8_9" >15</named-content><named-content
+                content-type="jrnlPatterns" data-title="changed '&#x2423;percent' to '%'"
+                data-tag-desc="VAL,UNT" data-tag-type="UNT" data-offset="592"
+                data-match="15 percent" data-replace="%" data-pattern="%" data-tag-index="8_9"
+                data-track-change=" percent" >%</named-content>
+            not the expected <named-content content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAL,UNT" data-tag-type="VAL" data-offset="618"
+                data-match="45 per cent" data-replace="45" data-pattern="$1" data-tag-index="8_10"
+                >45</named-content><named-content
+                content-type="jrnlPatterns" data-title="UNT" data-tag-desc="VAL,UNT"
+                data-tag-type="UNT" data-offset="620" data-match="45 per cent"
+                data-replace=" per cent" data-pattern=" $2" data-tag-index="8_10"
+                > per cent</named-content>.</p>
+        <p data-class="jrnlSecPara" >A <named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706026"
+                content-type="del cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706011" >Pythagorean
+            theorem</named-content><named-content xmlns:xlink="http://www.w3.org/1999/xlink"
+                data-cid="1702443706026" content-type="ins cts-1" specific-use="1702443706011"
+                xlink:title="Exeter" alt="preediting"
+                data-title="changed from 'Pythagorean&#x2423;theorem' to 'Pythagoras&#x2019; theorem'"
+                data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="2"
+                data-match="Pythagorean theorem" data-replace="Pythagoras&#x2019; theorem"
+                data-pattern="Pythagoras&#x2019; theorem" data-tag-index="9_30"
+                data-function="addTrackChanges" data-track-change="Pythagorean theorem"
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011"
+                >Pythagoras&#x2019; theorem</named-content>
+            and <named-content content-type="jrnlPatterns" data-title="THSE" data-tag-desc="THSE"
+                data-tag-type="THSE" data-offset="26" data-match="2900" data-replace="2900"
+                data-pattern="2900" data-tag-index="9_20" >
+            2900</named-content> pythagorean <named-content content-type="jrnlPatterns"
+                data-title="THSE" data-tag-desc="THSE" data-tag-type="THSE" data-offset="43"
+                data-match="2000" data-replace="2000" data-pattern="2000" data-tag-index="9_21"
+                >2000</named-content> theorem and <named-content
+                content-type="jrnlPatterns" data-title="changed 'P' to '&lt;i&gt;p&lt;/i&gt;'"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="60"
+                data-match="P &amp;lt; 0.01" data-replace="&lt;i&gt;p&lt;/i&gt;" data-pattern="$1"
+                data-tag-index="9_2" data-track-change="P" >
+                <italic >p</italic>
+            </named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="61"
+                data-match="P &amp;lt; 0.01" data-replace=" &lt; " data-pattern="default"
+                data-tag-index="9_2" > &lt; </named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="64"
+                data-match="P &amp;lt; 0.01" data-replace="0.01" data-pattern="$3"
+                data-tag-index="9_2" >0.01</named-content>;
+            local t test cheese <named-content content-type="jrnlPatterns"
+                data-title="changed 'P' to '&lt;i&gt;p&lt;/i&gt;'"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="90"
+                data-match="P = 0.101 samples p" data-replace="&lt;i&gt;p&lt;/i&gt;"
+                data-pattern="$1" data-tag-index="9_3" data-track-change="P"
+                >
+                <italic >p</italic>
+            </named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="91"
+                data-match="P = 0.101 samples p" data-replace=" = " data-pattern="default"
+                data-tag-index="9_3" > = </named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="94"
+                data-match="P = 0.101 samples p" data-replace="0.101" data-pattern="$1"
+                data-tag-index="9_3" >0.101</named-content><named-content
+                content-type="jrnlPatterns" data-title="UNT"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="UNT" data-offset="99"
+                data-match="P = 0.101 samples p" data-replace=" samples p" data-pattern=" $2"
+                data-tag-index="9_3" > samples p</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="109"
+                data-match=" = 0.08 made" data-replace=" = " data-pattern="default"
+                data-tag-index="9_4" > = </named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="112"
+                data-match=" = 0.08 made" data-replace="0.08" data-pattern="$3" data-tag-index="9_4"
+                >0.08</named-content> made of <named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706027"
+                content-type="del cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706011" >p&#x2013;value</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706027"
+                content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting"
+                data-title="changed from 'p&#x2013;value' to '&lt;i&gt;p&lt;/i&gt;&#x2010;value'"
+                data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="125"
+                data-match="p&#x2013;value" data-replace="&lt;i&gt;p&lt;/i&gt;&#x2010;value"
+                data-pattern="&lt;i&gt;p&lt;/i&gt;&#x2010;value" data-tag-index="9_47"
+                data-function="addTrackChanges" data-track-change="p&#x2013;value"
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011"
+                ><italic
+                    >p</italic>&#x2010;value</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="134"
+                data-match="value &amp;gt; 12 were" data-replace=" &gt; " data-pattern="default"
+                data-tag-index="9_5" > &gt; </named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="137"
+                data-match="value &amp;gt; 12 were" data-replace="12" data-pattern="$3"
+                data-tag-index="9_5" >12</named-content>
+            were <named-content xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706028"
+                content-type="del cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706011" >p&#x2013;value</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706028"
+                content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting"
+                data-title="changed from 'p&#x2013;value' to '&lt;i&gt;p&lt;/i&gt;&#x2010;value'"
+                data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="145"
+                data-match="p&#x2013;value" data-replace="&lt;i&gt;p&lt;/i&gt;&#x2010;value"
+                data-pattern="&lt;i&gt;p&lt;/i&gt;&#x2010;value" data-tag-index="9_50"
+                data-function="addTrackChanges" data-track-change="p&#x2013;value"
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011"
+                ><italic
+                    >p</italic>&#x2010;value</named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="154"
+                data-match="value = 1.12" data-replace=" = " data-pattern="default"
+                data-tag-index="9_6" > = </named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="157"
+                data-match="value = 1.12" data-replace="1.12" data-pattern="$3" data-tag-index="9_6"
+                >1.12</named-content> randomly in <named-content
+                content-type="jrnlPatterns" data-title="THSE" data-tag-desc="THSE"
+                data-tag-type="THSE" data-offset="174" data-match="1209" data-replace="1209"
+                data-pattern="1209" data-tag-index="9_22" >
+            1209</named-content> Bangladesh <named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706029"
+                content-type="del cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706011" >Student&#x2019;s
+            t-test</named-content><named-content xmlns:xlink="http://www.w3.org/1999/xlink"
+                data-cid="1702443706029" content-type="ins cts-1" specific-use="1702443706011"
+                xlink:title="Exeter" alt="preediting"
+                data-title="changed from 'Student&#x2019;s&#x2423;t-test' to 'Student&#x2019;s &lt;i&gt;t&lt;/i&gt;&#x2010;test'"
+                data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="190"
+                data-match="Student&#x2019;s t-test"
+                data-replace="Student&#x2019;s &lt;i&gt;t&lt;/i&gt;&#x2010;test"
+                data-pattern="Student&#x2019;s &lt;i&gt;t&lt;/i&gt;&#x2010;test"
+                data-tag-index="9_57" data-function="addTrackChanges"
+                data-track-change="Student&#x2019;s t-test" data-userid="preediting"
+                data-username="Exeter" data-time="1702443706011"
+                >Student&#x2019;s <italic
+                    >t</italic>&#x2010;test</named-content>
+            ; <xref  ref-type="table" rid="T1"
+                data-tag-desc="FIGTBLREF" data-tag-type="FIGTBLREF" data-offset="210"
+                data-match="Table 1" data-pattern="" data-tag-index="9_1"
+                data-citation-string=" T1 " data-anchor="true">
+                <named-content xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1704308681349"
+                    content-type="del cts-1" specific-use="1702443717000" xlink:title="Exeter"
+                    alt="preediting" data-userid="preediting" data-username="Exeter"
+                    data-time="1702443717000" >Table 1</named-content>
+                <named-content xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1704308681349"
+                    content-type="ins cts-1" specific-use="1702443717000" xlink:title="Exeter"
+                    alt="preediting" data-userid="preediting" data-username="Exeter"
+                    data-time="1702443717000" >table 1</named-content>
+            </xref>
+            in <named-content xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706030"
+                content-type="del cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706011" >Student&#x2019;s
+            t-test</named-content><named-content xmlns:xlink="http://www.w3.org/1999/xlink"
+                data-cid="1702443706030" content-type="ins cts-1" specific-use="1702443706011"
+                xlink:title="Exeter" alt="preediting"
+                data-title="changed from 'Student&#x2019;s&#x2423;t-test' to 'Student&#x2019;s &lt;i&gt;t&lt;/i&gt;&#x2010;test'"
+                data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="221"
+                data-match="Student&#x2019;s t-test"
+                data-replace="Student&#x2019;s &lt;i&gt;t&lt;/i&gt;&#x2010;test"
+                data-pattern="Student&#x2019;s &lt;i&gt;t&lt;/i&gt;&#x2010;test"
+                data-tag-index="9_60" data-function="addTrackChanges"
+                data-track-change="Student&#x2019;s t-test" data-userid="preediting"
+                data-username="Exeter" data-time="1702443706011"
+                >Student&#x2019;s <italic
+                    >t</italic>&#x2010;test</named-content>;
+            with Student&#x2019;s t test each &#x3c7;2 test <named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706031"
+                content-type="del cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706011" >&#x3c7;2-test</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706031"
+                content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting"
+                data-title="changed from '&#x3c7;2-test' to '&#x3c7;&lt;sup&gt;2&lt;/sup&gt;&#x2010;test'"
+                data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="279"
+                data-match="&#x3c7;2-test"
+                data-replace="&#x3c7;&lt;sup&gt;2&lt;/sup&gt;&#x2010;test"
+                data-pattern="&#x3c7;&lt;sup&gt;2&lt;/sup&gt;&#x2010;test" data-tag-index="9_64"
+                data-function="addTrackChanges" data-track-change="&#x3c7;2-test"
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011"
+                >&#x3c7;<sup
+                    >2</sup>&#x2010;test</named-content> <named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706032"
+                content-type="del cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706011" >
+            &#x3c7;2&#x2013;test</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706032"
+                content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting"
+                data-title="changed from '&#x3c7;2&#x2013;test' to '&#x3c7;&lt;sup&gt;2&lt;/sup&gt;&#x2010;test'"
+                data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="288"
+                data-match="&#x3c7;2&#x2013;test"
+                data-replace="&#x3c7;&lt;sup&gt;2&lt;/sup&gt;&#x2010;test"
+                data-pattern="&#x3c7;&lt;sup&gt;2&lt;/sup&gt;&#x2010;test" data-tag-index="9_66"
+                data-function="addTrackChanges" data-track-change="&#x3c7;2&#x2013;test"
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011"
+                >&#x3c7;<sup
+                    >2</sup>&#x2010;test</named-content>
+            dissolved <named-content xmlns:xlink="http://www.w3.org/1999/xlink"
+                data-cid="1702443706033" content-type="del cts-1" specific-use="1702443706011"
+                xlink:title="Exeter" alt="preediting" data-userid="preediting"
+                data-username="Exeter" data-time="1702443706011"
+                >t&#x2013;test</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706033"
+                content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting"
+                data-title="changed from 't&#x2013;test' to '&lt;i&gt;t&lt;/i&gt;&#x2010;test'"
+                data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="309"
+                data-match="t&#x2013;test" data-replace="&lt;i&gt;t&lt;/i&gt;&#x2010;test"
+                data-pattern="&lt;i&gt;t&lt;/i&gt;&#x2010;test" data-tag-index="9_67"
+                data-function="addTrackChanges" data-track-change="t&#x2013;test"
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011"
+                ><italic
+                    >t</italic>&#x2010;test</named-content> <named-content
+                content-type="jrnlPatterns"
+                data-title="changed from 'E. coli' to '&lt;i&gt;E. coli&lt;/i&gt;'"
+                data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="318" data-match="E. coli"
+                data-replace="E. coli" data-pattern="E. coli" data-tag-index="9_68"
+                data-function="addItalics" data-track-change="E. coli"
+                >
+                <italic >E. coli</italic>
+            </named-content>
+            into <named-content xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706034"
+                content-type="del cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706011" >&#x3c7;2-test</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706034"
+                content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting"
+                data-title="changed from '&#x3c7;2-test' to '&#x3c7;&lt;sup&gt;2&lt;/sup&gt;&#x2010;test'"
+                data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="331"
+                data-match="&#x3c7;2-test"
+                data-replace="&#x3c7;&lt;sup&gt;2&lt;/sup&gt;&#x2010;test"
+                data-pattern="&#x3c7;&lt;sup&gt;2&lt;/sup&gt;&#x2010;test" data-tag-index="9_70"
+                data-function="addTrackChanges" data-track-change="&#x3c7;2-test"
+                data-userid="preediting" data-username="Exeter" data-time="1702443706011"
+                >&#x3c7;<sup
+                    >2</sup>&#x2010;test</named-content> <named-content
+                content-type="jrnlPatterns" data-title="VAL" data-tag-desc="VAL,UNT"
+                data-tag-type="VAL" data-offset="340" data-match="225&#x2009;ml" data-replace="225"
+                data-pattern="$1" data-tag-index="9_11" >
+            225</named-content><named-content content-type="jrnlPatterns"
+                data-title="changed '&#x2009;ml' to '&#x2423;&#x2009;ml'" data-tag-desc="VAL,UNT"
+                data-tag-type="UNT" data-offset="343" data-match="225&#x2009;ml"
+                data-replace=" &#x2009;ml" data-pattern=" $2" data-tag-index="9_11"
+                data-track-change="&#x2009;ml" > &#x2009;ml</named-content>
+            of 1000, <named-content content-type="jrnlPatterns"
+                data-title="changed '10000' to '10&#x2009;000'" data-tag-desc="THSE"
+                data-tag-type="THSE" data-offset="358" data-match="10000"
+                data-replace="10&#x2009;000" data-pattern="10&#x2009;000" data-tag-index="9_23"
+                data-track-change="10000" >10&#x2009;000</named-content>
+            . <named-content content-type="jrnlPatterns"
+                data-title="changed '1000000' to '10&#x2009;00&#x2009;000'" data-tag-desc="THSE"
+                data-tag-type="THSE" data-offset="365" data-match="1000000"
+                data-replace="10&#x2009;00&#x2009;000" data-pattern="10&#x2009;00&#x2009;000"
+                data-tag-index="9_24" data-track-change="1000000"
+                >10&#x2009;00&#x2009;000</named-content>
+            buffer peptone <named-content content-type="jrnlPatterns" data-title="THSE"
+                data-tag-desc="THSE" data-tag-type="THSE" data-offset="388" data-match="1000"
+                data-replace="1000" data-pattern="1000" data-tag-index="9_25"
+                >1000</named-content> water and blended <named-content
+                content-type="jrnlPatterns" data-title="changed '10000' to '10&#x2009;000'"
+                data-tag-desc="THSE" data-tag-type="THSE" data-offset="411" data-match="10000"
+                data-replace="10&#x2009;000" data-pattern="10&#x2009;000" data-tag-index="9_26"
+                data-track-change="10000" >10&#x2009;000</named-content>
+            with <named-content xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706035"
+                content-type="del cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706011" >&#xbc;</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706035"
+                content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-title="changed from '&#xbc;' to 'One-quarter'"
+                data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="422" data-match="&#xbc;"
+                data-replace="One-quarter" data-pattern="One-quarter" data-tag-index="9_84"
+                data-function="addTrackChanges" data-track-change="&#xbc;" data-userid="preediting"
+                data-username="Exeter" data-time="1702443706011"
+                >One-quarter</named-content> also with <named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706036"
+                content-type="del cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706011" >&#xbd;</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706036"
+                content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-title="changed from '&#xbd;' to 'One-half'"
+                data-tag-desc="HIGH" data-tag-type="HIGH" data-offset="435" data-match="&#xbd;"
+                data-replace="One-half" data-pattern="One-half" data-tag-index="9_87"
+                data-function="addTrackChanges" data-track-change="&#xbd;" data-userid="preediting"
+                data-username="Exeter" data-time="1702443706011"
+                >One-half</named-content> Stomacher machine
+            for <named-content xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706000"
+                content-type="del cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706011" >covid-19</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706001"
+                content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706011" >COVID-19</named-content>.
+            The samples of covid were Covid then <named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706000"
+                content-type="del cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706011" >covid-19</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706001"
+                content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706011" >COVID-19</named-content>
+            and <named-content xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706000"
+                content-type="del cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706011" >covid-19</named-content><named-content
+                xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706001"
+                content-type="ins cts-1" specific-use="1702443706011" xlink:title="Exeter"
+                alt="preediting" data-userid="preediting" data-username="Exeter"
+                data-time="1702443706011" >COVID-19</named-content>
+            enriched in <italic >Lactobacillus</italic> de <named-content
+                content-type="jrnlPatterns" data-title="EXPN" data-tag-desc="EXPN"
+                data-tag-type="EXPN" data-offset="558" data-match="Man, Ragosa Sharpe"
+                data-pattern="" data-tag-index="" data-abbr="MRS"
+                >Man, Ragosa Sharpe</named-content> (<named-content
+                content-type="jrnlPatterns" data-title="ABBR" data-tag-desc="ABBR"
+                data-tag-type="ABBR" data-offset="578" data-match=" (MRS)" data-pattern=""
+                data-tag-index="9_19" >MRS</named-content>)
+            broth medium (Hi-Media, India) for <named-content content-type="jrnlPatterns"
+                data-title="VAL" data-tag-desc="VAL,UNT" data-tag-type="VAL" data-offset="618"
+                data-match="24&#x2009;h" data-replace="24" data-pattern="$1" data-tag-index="9_12"
+                >24</named-content><named-content
+                content-type="jrnlPatterns" data-title="changed '&#x2009;h' to '&#x2423;&#x2009;h'"
+                data-tag-desc="VAL,UNT" data-tag-type="UNT" data-offset="620"
+                data-match="24&#x2009;h" data-replace=" &#x2009;h" data-pattern=" $2"
+                data-tag-index="9_12" data-track-change="&#x2009;h"
+                > &#x2009;h</named-content> at <named-content
+                content-type="jrnlPatterns" data-title="VAL" data-tag-desc="VAL,UNT"
+                data-tag-type="VAL" data-offset="628" data-match="37 &#xb0;C" data-replace="37"
+                data-pattern="$1" data-tag-index="9_13" >37</named-content><named-content
+                content-type="jrnlPatterns" data-title="changed '&#x2423;&#xb0;C' to '&#xb0;C'"
+                data-tag-desc="VAL,UNT" data-tag-type="UNT" data-offset="630"
+                data-match="37 &#xb0;C" data-replace="&#xb0;C" data-pattern="&#xb0;C"
+                data-tag-index="9_13" data-track-change=" &#xb0;C"
+                >&#xb0;C</named-content> and <named-content
+                content-type="jrnlPatterns" data-title="VAL" data-tag-desc="VAL,UNT"
+                data-tag-type="VAL" data-offset="639" data-match="18 &#xb0;C" data-replace="18"
+                data-pattern="$1" data-tag-index="9_14" >18</named-content><named-content
+                content-type="jrnlPatterns" data-title="changed '&#x2423;&#xb0;C' to '&#xb0;C'"
+                data-tag-desc="VAL,UNT" data-tag-type="UNT" data-offset="641"
+                data-match="18 &#xb0;C" data-replace="&#xb0;C" data-pattern="&#xb0;C"
+                data-tag-index="9_14" data-track-change=" &#xb0;C"
+                >&#xb0;C</named-content>. <named-content
+                content-type="jrnlPatterns" data-title="VAL" data-tag-desc="VAL,UNT"
+                data-tag-type="VAL" data-offset="647" data-match="150&#x3bc;m" data-replace="150"
+                data-pattern="$1" data-tag-index="9_15" >
+            150</named-content><named-content content-type="jrnlPatterns"
+                data-title="changed '&#x3bc;m' to '&#x2423;&#x3bc;m'" data-tag-desc="VAL,UNT"
+                data-tag-type="UNT" data-offset="650" data-match="150&#x3bc;m"
+                data-replace=" &#x3bc;m" data-pattern=" $2" data-tag-index="9_15"
+                data-track-change="&#x3bc;m" > &#x3bc;m</named-content>
+            ; <named-content content-type="jrnlPatterns" data-title="VAL" data-tag-desc="VAL,UNT"
+                data-tag-type="VAL" data-offset="655" data-match="500mM" data-replace="500"
+                data-pattern="$1" data-tag-index="9_16" >
+            500</named-content><named-content content-type="jrnlPatterns"
+                data-title="changed 'mM' to '&#x2423;mM'" data-tag-desc="VAL,UNT"
+                data-tag-type="UNT" data-offset="658" data-match="500mM" data-replace=" mM"
+                data-pattern=" $2" data-tag-index="9_16" data-track-change="mM"
+                > mM</named-content>; <named-content
+                content-type="jrnlPatterns" data-title="VAL" data-tag-desc="VAL,UNT"
+                data-tag-type="VAL" data-offset="662" data-match="150 &#x3bc;m" data-replace="150"
+                data-pattern="$1" data-tag-index="9_17" >
+            150</named-content><named-content content-type="jrnlPatterns" data-title="UNT"
+                data-tag-desc="VAL,UNT" data-tag-type="UNT" data-offset="665"
+                data-match="150 &#x3bc;m" data-replace=" &#x3bc;m" data-pattern=" $2"
+                data-tag-index="9_17" > &#x3bc;m</named-content>
+            ; <named-content content-type="jrnlPatterns" data-title="VAL" data-tag-desc="VAL,UNT"
+                data-tag-type="VAL" data-offset="671" data-match="500 mM" data-replace="500"
+                data-pattern="$1" data-tag-index="9_18" >
+            500</named-content><named-content content-type="jrnlPatterns" data-title="UNT"
+                data-tag-desc="VAL,UNT" data-tag-type="UNT" data-offset="674" data-match="500 mM"
+                data-replace=" mM" data-pattern=" $2" data-tag-index="9_18"
+                > mM</named-content>; <named-content
+                content-type="jrnlPatterns" data-title="ORDI" data-tag-desc="ORDI"
+                data-tag-type="ORDI" data-offset="679" data-match="10th" data-pattern=""
+                data-tag-index="9_28" >10<sup
+                    >th</sup></named-content> place and the
+            position of <named-content content-type="jrnlPatterns" data-title="ORDI"
+                data-tag-desc="ORDI" data-tag-type="ORDI" data-offset="710" data-match="19th"
+                data-pattern="" data-tag-index="9_29" >19<sup
+                    >th</sup></named-content> was secured. <named-content
+                content-type="jrnlPatterns" data-title="changed 'N' to '&lt;i&gt;n&lt;/i&gt;'"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="728"
+                data-match="N= 1.01 with" data-replace="&lt;i&gt;n&lt;/i&gt;" data-pattern="$1"
+                data-tag-index="9_7" data-track-change="N" >
+                <italic >n</italic>
+            </named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="729"
+                data-match="N= 1.01 with" data-replace="= " data-pattern="default"
+                data-tag-index="9_7" >= </named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="731"
+                data-match="N= 1.01 with" data-replace="1.01" data-pattern="$3" data-tag-index="9_7"
+                >1.01</named-content> with another value <named-content
+                content-type="jrnlPatterns" data-title="changed 'n' to '&lt;i&gt;n&lt;/i&gt;'"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="755"
+                data-match="n = 1.23 and" data-replace="&lt;i&gt;n&lt;/i&gt;" data-pattern="$1"
+                data-tag-index="9_8" data-track-change="n" >
+                <italic >n</italic>
+            </named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="756"
+                data-match="n = 1.23 and" data-replace=" = " data-pattern="default"
+                data-tag-index="9_8" > = </named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="759"
+                data-match="n = 1.23 and" data-replace="1.23" data-pattern="$3" data-tag-index="9_8"
+                >1.23</named-content><named-content
+                content-type="jrnlPatterns" data-title="UNT"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="UNT" data-offset="763"
+                data-match="n = 1.23 and" data-replace=" and" data-pattern=" $6"
+                data-tag-index="9_8" > and</named-content> <named-content
+                content-type="jrnlPatterns" data-title="changed 'n' to '&lt;i&gt;n&lt;/i&gt;'"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAR" data-offset="768"
+                data-match="n=12" data-replace="&lt;i&gt;n&lt;/i&gt;" data-pattern="$1"
+                data-tag-index="9_9" data-track-change="n" >
+                <italic >n</italic>
+            </named-content><named-content
+                content-type="jrnlPatterns" data-title="OPR"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="OPR" data-offset="769"
+                data-match="n=12" data-replace="=" data-pattern="default" data-tag-index="9_9"
+                >=</named-content><named-content
+                content-type="jrnlPatterns" data-title="VAL"
+                data-tag-desc="VAR,OPR,VAL,OPRS,VALS,UNT" data-tag-type="VAL" data-offset="770"
+                data-match="n=12" data-replace="12" data-pattern="$3" data-tag-index="9_9"
+                >12</named-content>.</p>
+        <table-wrap  data-id="BLK_T1" data-stream-name="a_T1" position="float">
+            <label data-title=" T1 " data-offset="0" data-match="Table 1"
+                >Table 1.</label>
+            <caption >
+                <title  data-id="T1">micro-organism and their <named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706008_s"
+                        content-type="del" specific-use="1702443706008" xlink:title="Exeter"
+                        alt="preediting" data-type="s-case" data-userid="preediting"
+                        data-username="Exeter" data-time="1702443706008"
+                        >Data</named-content><named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706008_s"
+                        content-type="ins" specific-use="1702443706008" xlink:title="Exeter"
+                        alt="preediting" data-type="s-case" data-userid="preediting"
+                        data-username="Exeter" data-time="1702443706008"
+                        >data</named-content><named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706000"
+                        content-type="ins cts-1" specific-use="1702443706009" xlink:title="Exeter"
+                        alt="preediting" data-userid="preediting" data-username="Exeter"
+                        data-time="1702443706009" >.</named-content></title>
+            </caption>
+            <table data-col-count="5" data-caption-link="T1" data-col-widths-px="78,207,78,96,51"
+                data-table-type="doubleColumn" >
+                <thead >
+                    <tr data-col-count="5" >
+                        <td
+                            data-original-border="border-top:black;border-left: windowtext;border-bottom:black;border-right:windowtext;border-style:solid; border-width:1.0pt;"
+                            data-original-padding="padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-0" data-col-index="1" data-row-index="0"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >
+                                <bold >Strain Name</bold>
+                            </p>
+                        </td>
+                        <td
+                            data-original-border="border-top:solid black 1.0pt; border-left:none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-1" data-col-index="2" data-row-index="0"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >
+                                <bold >ID</bold>
+                            </p>
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >(<bold
+                                    >identification</bold>)</p>
+                        </td>
+                        <td
+                            data-original-border="border-top:solid black 1.0pt; border-left:none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-2" data-col-index="3" data-row-index="0"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >
+                                <bold >PROB</bold>
+                            </p>
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >(<bold
+                                    >probability</bold>)</p>
+                        </td>
+                        <td
+                            data-original-border="border-top:solid black 1.0pt; border-left:none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-3" data-col-index="4" data-row-index="0"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >
+                                <bold >SIM</bold>
+                            </p>
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >(<bold
+                                    >similarity index</bold>
+                                )</p>
+                        </td>
+                        <td
+                            data-original-border="border-top:solid black 1.0pt; border-left:none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-4" data-col-index="5" data-row-index="0"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >
+                                <bold >DIST</bold>
+                            </p>
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >(<bold
+                                    >distance</bold>)</p>
+                        </td>
+                    </tr>
+                </thead>
+                <tbody >
+                    <tr data-col-count="5" >
+                        <td data-original-border="border:none;border-left:solid windowtext 1.0pt;"
+                            data-original-padding="padding:0in 5.25pt 0in 5.25pt;"
+                            data-original-background=" background:#B3B3B3;"
+                            data-table-background-color="#B3B3B3" data-col-pos="col-0"
+                            data-col-index="1" data-row-index="0"
+                            data-style="background-color: #B3B3B3;"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >C1</p>
+                        </td>
+                        <td data-original-border="border:none;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-original-background="background:#B3B3B3;"
+                            data-table-background-color="#B3B3B3" data-col-pos="col-1"
+                            data-col-index="2" data-row-index="0"
+                            data-style="background-color: #B3B3B3;"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >
+                                <italic >Lactobacillus
+                                    plantarum</italic>
+                            </p>
+                        </td>
+                        <td data-original-border="border:none;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-original-background="background:#B3B3B3;"
+                            data-table-background-color="#B3B3B3" data-col-pos="col-2"
+                            data-col-index="3" data-row-index="0" data-auto-align="true"
+                            data-left-indent="0" data-align="decimal"
+                            data-style="background-color: #B3B3B3;"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >0.937</p>
+                        </td>
+                        <td data-original-border="border:none;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-original-background="background:#B3B3B3;"
+                            data-table-background-color="#B3B3B3" data-col-pos="col-3"
+                            data-col-index="4" data-row-index="0" data-auto-align="true"
+                            data-left-indent="0" data-align="decimal"
+                            data-style="background-color: #B3B3B3;"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >0.542</p>
+                        </td>
+                        <td data-original-border="border:none;border-right:solid windowtext 1.0pt;"
+                            data-original-padding="padding:0in 5.25pt 0in 5.25pt;"
+                            data-original-background=" background:#B3B3B3;"
+                            data-table-background-color="#B3B3B3" data-col-pos="col-4"
+                            data-col-index="5" data-row-index="0" data-auto-align="true"
+                            data-left-indent="0" data-align="decimal"
+                            data-style="background-color: #B3B3B3;"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >1.152</p>
+                        </td>
+                    </tr>
+                    <tr data-col-count="5" >
+                        <td data-original-border="border:none;border-left:solid windowtext 1.0pt;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-0" data-col-index="1" data-row-index="1"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >C2</p>
+                        </td>
+                        <td data-original-border="border:none;"
+                            data-original-padding="padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-1" data-col-index="2" data-row-index="1"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >
+                                <italic >Lactobacillus
+                                    paracasei ss paracasei</italic>
+                            </p>
+                        </td>
+                        <td data-original-border="border:none;"
+                            data-original-padding="padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-2" data-col-index="3" data-row-index="1"
+                            data-auto-align="true" data-left-indent="0" data-align="decimal"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >0.667</p>
+                        </td>
+                        <td data-original-border="border:none;"
+                            data-original-padding="padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-3" data-col-index="4" data-row-index="1"
+                            data-auto-align="true" data-left-indent="0" data-align="decimal"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >0.667</p>
+                        </td>
+                        <td data-original-border="border:none;border-right:solid windowtext 1.0pt;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-4" data-col-index="5" data-row-index="1"
+                            data-auto-align="true" data-left-indent="0" data-align="decimal"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >0.155</p>
+                        </td>
+                    </tr>
+                    <tr data-col-count="5" >
+                        <td data-original-border="border:none;border-left:solid windowtext 1.0pt;"
+                            data-original-padding="padding:0in 5.25pt 0in 5.25pt;"
+                            data-original-background=" background:#B3B3B3;"
+                            data-table-background-color="#B3B3B3" data-col-pos="col-0"
+                            data-col-index="1" data-row-index="2"
+                            data-style="background-color: #B3B3B3;"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >C3</p>
+                        </td>
+                        <td data-original-border="border:none;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-original-background="background:#B3B3B3;"
+                            data-table-background-color="#B3B3B3" data-col-pos="col-1"
+                            data-col-index="2" data-row-index="2"
+                            data-style="background-color: #B3B3B3;"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >
+                                <italic >Lactobacillus
+                                    rhamnosus</italic>
+                            </p>
+                        </td>
+                        <td data-original-border="border:none;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-original-background="background:#B3B3B3;"
+                            data-table-background-color="#B3B3B3" data-col-pos="col-2"
+                            data-col-index="3" data-row-index="2" data-auto-align="true"
+                            data-left-indent="0" data-align="decimal"
+                            data-style="background-color: #B3B3B3;"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >0.836</p>
+                        </td>
+                        <td data-original-border="border:none;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-original-background="background:#B3B3B3;"
+                            data-table-background-color="#B3B3B3" data-col-pos="col-3"
+                            data-col-index="4" data-row-index="2" data-auto-align="true"
+                            data-left-indent="0" data-align="decimal"
+                            data-style="background-color: #B3B3B3;"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >0.568</p>
+                        </td>
+                        <td data-original-border="border:none;border-right:solid windowtext 1.0pt;"
+                            data-original-padding="padding:0in 5.25pt 0in 5.25pt;"
+                            data-original-background=" background:#B3B3B3;"
+                            data-table-background-color="#B3B3B3" data-col-pos="col-4"
+                            data-col-index="5" data-row-index="2" data-auto-align="true"
+                            data-left-indent="0" data-align="decimal"
+                            data-style="background-color: #B3B3B3;"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >0.887</p>
+                        </td>
+                    </tr>
+                    <tr data-col-count="5" >
+                        <td data-original-border="border:none;border-left:solid windowtext 1.0pt;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-0" data-col-index="1" data-row-index="3"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >C4</p>
+                        </td>
+                        <td data-original-border="border:none;"
+                            data-original-padding="padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-1" data-col-index="2" data-row-index="3"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >
+                                <italic >Lactobacillus
+                                    farciminis</italic>
+                            </p>
+                        </td>
+                        <td data-original-border="border:none;"
+                            data-original-padding="padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-2" data-col-index="3" data-row-index="3"
+                            data-auto-align="true" data-left-indent="0" data-align="decimal"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >0.935</p>
+                        </td>
+                        <td data-original-border="border:none;"
+                            data-original-padding="padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-3" data-col-index="4" data-row-index="3"
+                            data-auto-align="true" data-left-indent="0" data-align="decimal"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >0.704</p>
+                        </td>
+                        <td data-original-border="border:none;border-right:solid windowtext 1.0pt;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-4" data-col-index="5" data-row-index="3"
+                            data-auto-align="true" data-left-indent="0" data-align="decimal"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >1.119</p>
+                        </td>
+                    </tr>
+                    <tr data-col-count="5" >
+                        <td
+                            data-original-border="border:solid windowtext 1.0pt; border-bottom:solid black 1.0pt;"
+                            data-original-padding="padding:0in 5.25pt 0in 5.25pt;"
+                            data-original-background="background:#B3B3B3;"
+                            data-table-background-color="#B3B3B3" data-col-pos="col-0"
+                            data-col-index="1" data-row-index="4"
+                            data-style="background-color: #B3B3B3;"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >C5</p>
+                        </td>
+                        <td
+                            data-original-border="border-top:solid windowtext 1.0pt; border-left:none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;"
+                            data-original-padding="padding:0in 5.25pt 0in 5.25pt;"
+                            data-original-background=" background:#B3B3B3;"
+                            data-table-background-color="#B3B3B3" data-col-pos="col-1"
+                            data-col-index="2" data-row-index="4"
+                            data-style="background-color: #B3B3B3;"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >
+                                <italic >Lactobacillus
+                                    bifermentans</italic>
+                            </p>
+                        </td>
+                        <td
+                            data-original-border="border-top:solid windowtext 1.0pt; border-left:none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;"
+                            data-original-padding="padding:0in 5.25pt 0in 5.25pt;"
+                            data-original-background=" background:#B3B3B3;"
+                            data-table-background-color="#B3B3B3" data-col-pos="col-2"
+                            data-col-index="3" data-row-index="4" data-auto-align="true"
+                            data-left-indent="0" data-align="decimal"
+                            data-style="background-color: #B3B3B3;"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >0.719</p>
+                        </td>
+                        <td
+                            data-original-border="border-top:solid windowtext 1.0pt; border-left:none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;"
+                            data-original-padding="padding:0in 5.25pt 0in 5.25pt;"
+                            data-original-background=" background:#B3B3B3;"
+                            data-table-background-color="#B3B3B3" data-col-pos="col-3"
+                            data-col-index="4" data-row-index="4" data-auto-align="true"
+                            data-left-indent="0" data-align="decimal"
+                            data-style="background-color: #B3B3B3;"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >0.719</p>
+                        </td>
+                        <td
+                            data-original-border="border-top:solid windowtext 1.0pt; border-left:none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;"
+                            data-original-padding="padding:0in 5.25pt 0in 5.25pt;"
+                            data-original-background=" background:#B3B3B3;"
+                            data-table-background-color="#B3B3B3" data-col-pos="col-4"
+                            data-col-index="5" data-row-index="4" data-auto-align="true"
+                            data-left-indent="0" data-align="decimal"
+                            data-style="background-color: #B3B3B3;"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >1.014</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <table-wrap-foot >
+                <table-wrap-foot >
+                    <fn data-class="jrnlTblFoot"  fn-type="general" data-id="T1_FN1">
+                        <p >Moving toward a Cultural Reader
+                            Response: To understand the role of students<named-content
+                                content-type="jrnlPatterns" data-title="RSQUOTE"
+                                data-tag-desc="RSQUOTE" data-tag-type="RSQUOTE" data-offset="77"
+                                data-match="&#x2019;" data-pattern="" data-tag-index="39_2"
+                                >&#x2019;</named-content>
+                            responses to, and interactions with, the core text, we build on
+                            Rosenblatt&#x2019;s<named-content content-type="jrnlPatterns"
+                                data-title="RQUOTE" data-tag-desc="RQUOTE" data-tag-type="RQUOTE"
+                                data-offset="159" data-match="&amp;quot;" data-pattern=""
+                                data-tag-index="39_1" >"</named-content></p>
+                    </fn>
+                    <fn data-class="jrnlTblFoot" colorcode="#"  fn-type="general"
+                        data-id="T1_FN2">
+                        <p >Micro example of text after H3. <xref
+                                 ref-type="fig" rid="F2"
+                                data-tag-desc="FIGTBLREF" data-tag-type="FIGTBLREF" data-offset="32"
+                                data-match="figure 2" data-pattern="" data-tag-index="40_1"
+                                data-citation-string=" F2 " data-anchor="true">figure 2</xref>.</p>
+                    </fn>
+                </table-wrap-foot>
+            </table-wrap-foot>
+        </table-wrap>
+        <fig  data-stream-name="a_F2" data-id="BLK_F2" position="float" fig-type="figure">
+            <label>Figure 2.</label>
+            <caption>
+                <title  data-id="F2"><named-content data-class="jrnlQueryRef"
+                        rid="5883eb0c-0cb1-43a6-8c92-2dc0f586b4a7" data-query-ref="true"
+                        data-type="start" data-query-for="author" data-channel="query"
+                        data-topic="action" data-event="click"
+                        data-message="{'funcToCall': 'highlightQuery'}"
+                        data-query-action="uncited-figure" 
+                        content-type="jrnlQueryRef" specific-use="start" />Representative zircon
+                    cathodoluminescence (<named-content xmlns:xlink="http://www.w3.org/1999/xlink"
+                        
+                        data-cid="cb5bcc3d-9675-4db6-b95e-6d7e40be94d0" content-type="jrnlPatterns"
+                        specific-use="" xlink:title="" alt="" data-title="ABBR" data-track-detail=""
+                        data-tag-desc="ABBR" data-tag-type="ABBR" data-offset="53"
+                        data-match=" (CL)" data-pattern="" data-tag-index="59_2" data-time=""
+                        data-username="" data-userid="">CL</named-content>) images showing internal
+                    zonation, and the U-Pb (small circle) and Lu-Hf (large circle) analysis spots.
+                    Age and &#x3b5;Hf(t) values are shown.</title>
+            </caption>
+            <graphic xmlns:xlink="http://www.w3.org/1999/xlink"
+                xlink:href="/resources/_cache/FPO.tif.JPEG"
+                
+                data-alt-src="/resources/_cache/FPO.tif.JPEG" data-primary-extension="" />
+        </fig>
+        <p data-class="jrnlSecPara" >Here should be the
+            diagram <xref  ref-type="fig" rid="F1"
+                data-tag-desc="FIGTBLREF" data-tag-type="FIGTBLREF" data-offset="27"
+                data-match="figure 1" data-pattern="" data-tag-index="41_1"
+                data-citation-string=" F1 ">figure 1</xref>. The tabular data is done in <xref
+                 ref-type="table" rid="T2"
+                data-tag-desc="FIGTBLREF" data-tag-type="FIGTBLREF" data-offset="65"
+                data-match="table 2" data-pattern="" data-tag-index="41_2"
+                data-citation-string=" T2 " data-anchor="true">table 2</xref> and the equations are
+            maked in equation (1.2) with the theorems defined in theorem 1.2 with the subject in
+            preposition 1.1 for following <xref 
+                ref-type="app" rid="A1" data-tag-desc="FIGTBLREF" data-tag-type="FIGTBLREF"
+                data-offset="210" data-match="appendix 1" data-pattern="" data-tag-index="41_3"
+                data-citation-string=" A1 ">appendix 1</xref> of the <xref
+                 ref-type="app" rid="A2"
+                data-tag-desc="FIGTBLREF" data-tag-type="FIGTBLREF" data-offset="228"
+                data-match="appendix 2" data-pattern="" data-tag-index="41_4"
+                data-citation-string=" A2 ">appendix 2</xref>.</p>
+        <table-wrap  data-id="BLK_T2" data-stream-name="a_T2" position="float">
+            <label data-title=" T2 " data-offset="0" data-match="Table 2"
+                >Table 2.</label>
+            <caption >
+                <title  data-id="T2"><named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706009_s"
+                        content-type="del" specific-use="1702443706009" xlink:title="Exeter"
+                        alt="preediting" data-type="s-case" data-userid="preediting"
+                        data-username="Exeter" data-time="1702443706009"
+                        >The</named-content><named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706009_s"
+                        content-type="ins" specific-use="1702443706009" xlink:title="Exeter"
+                        alt="preediting" data-type="s-case" data-userid="preediting"
+                        data-username="Exeter" data-time="1702443706009"
+                        >the</named-content> data being <named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706010_s"
+                        content-type="del" specific-use="1702443706010" xlink:title="Exeter"
+                        alt="preediting" data-type="s-case" data-userid="preediting"
+                        data-username="Exeter" data-time="1702443706010"
+                        >Represented</named-content><named-content
+                        xmlns:xlink="http://www.w3.org/1999/xlink" data-cid="1702443706010_s"
+                        content-type="ins" specific-use="1702443706010" xlink:title="Exeter"
+                        alt="preediting" data-type="s-case" data-userid="preediting"
+                        data-username="Exeter" data-time="1702443706010"
+                        >represented</named-content> below.</title>
+            </caption>
+            <table data-col-count="5" data-caption-link="T2" data-col-widths-px="78,207,78,96,51"
+                data-table-type="doubleColumn" >
+                <thead >
+                    <tr data-col-count="5" >
+                        <td
+                            data-original-border="border-top:black;border-left: windowtext;border-bottom:black;border-right:windowtext;border-style:solid; border-width:1.0pt;"
+                            data-original-padding="padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-0" data-col-index="1" data-row-index="0"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >
+                                <bold >Strain Name</bold>
+                            </p>
+                        </td>
+                        <td
+                            data-original-border="border-top:solid black 1.0pt; border-left:none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-1" data-col-index="2" data-row-index="0"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >
+                                <bold >ID</bold>
+                            </p>
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >(<bold
+                                    >identification</bold>)</p>
+                        </td>
+                        <td
+                            data-original-border="border-top:solid black 1.0pt; border-left:none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-2" data-col-index="3" data-row-index="0"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >
+                                <bold >PROB</bold>
+                            </p>
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >(<bold
+                                    >probability</bold>)</p>
+                        </td>
+                        <td
+                            data-original-border="border-top:solid black 1.0pt; border-left:none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-3" data-col-index="4" data-row-index="0"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >
+                                <bold >SIM</bold>
+                            </p>
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >(<bold
+                                    >similarity index</bold>
+                                )</p>
+                        </td>
+                        <td
+                            data-original-border="border-top:solid black 1.0pt; border-left:none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-4" data-col-index="5" data-row-index="0"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >
+                                <bold >DIST</bold>
+                            </p>
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >(<bold
+                                    >distance</bold>)</p>
+                        </td>
+                    </tr>
+                </thead>
+                <tbody >
+                    <tr data-col-count="5" >
+                        <td data-original-border="border:none;border-left:solid windowtext 1.0pt;"
+                            data-original-padding="padding:0in 5.25pt 0in 5.25pt;"
+                            data-original-background=" background:#B3B3B3;"
+                            data-table-background-color="#B3B3B3" data-col-pos="col-0"
+                            data-col-index="1" data-row-index="0"
+                            data-style="background-color: #B3B3B3;"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >C1</p>
+                        </td>
+                        <td data-original-border="border:none;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-original-background="background:#B3B3B3;"
+                            data-table-background-color="#B3B3B3" data-col-pos="col-1"
+                            data-col-index="2" data-row-index="0"
+                            data-style="background-color: #B3B3B3;"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >
+                                <italic >Lactobacillus
+                                    plantarum</italic>
+                            </p>
+                        </td>
+                        <td data-original-border="border:none;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-original-background="background:#B3B3B3;"
+                            data-table-background-color="#B3B3B3" data-col-pos="col-2"
+                            data-col-index="3" data-row-index="0" data-auto-align="true"
+                            data-left-indent="0" data-align="decimal"
+                            data-style="background-color: #B3B3B3;"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >0.937</p>
+                        </td>
+                        <td data-original-border="border:none;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-original-background="background:#B3B3B3;"
+                            data-table-background-color="#B3B3B3" data-col-pos="col-3"
+                            data-col-index="4" data-row-index="0" data-auto-align="true"
+                            data-left-indent="0" data-align="decimal"
+                            data-style="background-color: #B3B3B3;"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >0.542</p>
+                        </td>
+                        <td data-original-border="border:none;border-right:solid windowtext 1.0pt;"
+                            data-original-padding="padding:0in 5.25pt 0in 5.25pt;"
+                            data-original-background=" background:#B3B3B3;"
+                            data-table-background-color="#B3B3B3" data-col-pos="col-4"
+                            data-col-index="5" data-row-index="0" data-auto-align="true"
+                            data-left-indent="0" data-align="decimal"
+                            data-style="background-color: #B3B3B3;"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >1.152</p>
+                        </td>
+                    </tr>
+                    <tr data-col-count="5" >
+                        <td
+                            data-original-border="border-top:none;border-left:solid windowtext 1.0pt; border-bottom:solid windowtext 1.0pt;border-right:none;"
+                            data-original-padding="padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-0" data-col-index="1" data-row-index="1"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >C2</p>
+                        </td>
+                        <td data-original-border="border:none;border-bottom:solid windowtext 1.0pt;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-1" data-col-index="2" data-row-index="1"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >
+                                <italic >Lactobacillus
+                                    paracasei ss paracasei</italic>
+                            </p>
+                        </td>
+                        <td data-original-border="border:none;border-bottom:solid windowtext 1.0pt;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-2" data-col-index="3" data-row-index="1"
+                            data-auto-align="true" data-left-indent="0" data-align="decimal"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >0.667</p>
+                        </td>
+                        <td data-original-border="border:none;border-bottom:solid windowtext 1.0pt;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-3" data-col-index="4" data-row-index="1"
+                            data-auto-align="true" data-left-indent="0" data-align="decimal"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >0.667</p>
+                        </td>
+                        <td
+                            data-original-border="border-top:none;border-left: none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;"
+                            data-original-padding=" padding:0in 5.25pt 0in 5.25pt;"
+                            data-col-pos="col-4" data-col-index="5" data-row-index="1"
+                            data-auto-align="true" data-left-indent="0" data-align="decimal"
+                            >
+                            <p data-original-margin=" margin: 0in;"
+                                data-original-alignment=" text-align: left;"
+                                >0.155</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </table-wrap>
+        <title data-level="2" data-class="jrnlHead2" >Data
+            availability statement</title>
+        <p data-class="jrnlSecPara" >It acts as one of the
+            most important parameter for the formation evaluation of hydrocarbon</p>
+    </body>
+    <back data-edited="true" data-edited-version="2" >
+        <ref-list node-insert-xpath="//back" node-parent-node="back"
+            node-parent-insertafter-xpath="//body" >
+            <title data-level="1" >References</title>
+            <ref data-class="jrnlRefText"  data-reftype="confproc"
+                data-reftype-name="Proceeding" data-csl="true" data-validated-online="true"
+                data-title="Validated from CrossRef" data-doi="10.2118/96100-MS"
+                data-validated-log="true" data-validated="true" data-id="R1" data-valid-id="R1"
+                data-uncited="true">
+                <named-content data-class="jrnlQueryRef" rid="b1ffc8fb-99fb-475c-b8d6-759051886c5b"
+                    data-query-ref="true" data-type="start" data-query-for="author"
+                    data-channel="query" data-topic="action" data-event="click"
+                    data-message="{'funcToCall': 'highlightQuery'}"
+                    data-query-action="uncited-reference" 
+                    content-type="jrnlQueryRef" specific-use="start" />
+                <label>1.</label>
+                <element-citation publication-type="confproc">
+                    <person-group person-group-type="author">
+                        <name >
+                            <surname >Al-Bazali</surname>
+                            <given-names >TM</given-names>
+                        </name>
+                        <x>, </x>
+                        <name >
+                            <surname >Zhang</surname>
+                            <given-names >J</given-names>
+                        </name>
+                        <x>, </x>
+                        <name >
+                            <surname >Chenevert</surname>
+                            <given-names >M xs E</given-names>
+                        </name>
+                        <x>, </x>
+                        <name >
+                            <surname >Sharma</surname>
+                            <given-names >MM</given-names>
+                        </name>
+                    </person-group>
+                    <x>. </x>
+                    <article-title >Measurement of the
+                        Sealing Capacity of Shale Caprocks</article-title>
+                    <x>. </x>
+                    <comment data-class="RefComments">In</comment>
+                    <x>: </x>
+                    <conf-name >
+                        <named-content xmlns:xlink="http://www.w3.org/1999/xlink"
+                            data-cid="1702443630199" 
+                            content-type="ins cts-1" specific-use="1702443630199"
+                            xlink:title="CrossRef" alt="CrossRef"
+                            data-title="Inserted by CrossRef - Wed Dec 13 2023 05:00:30 GMT+0000 (Coordinated Universal Time)"
+                            data-track-detail="" data-time="1702443630199" data-userid="CrossRef"
+                            data-username="CrossRef">SPE Annual Technical Conference and Exhibition</named-content>
+                    </conf-name>
+                    <x>. </x>
+                    <publisher-name >Society of Petroluem
+                        Engineerings</publisher-name>
+                    <x>; </x>
+                    <year >2005</year>
+                    <x>. </x>
+                    <comment data-class="RefComments">p</comment>
+                    <x>. </x>
+                    <fpage >96100</fpage>
+                    <x>.</x>
+                </element-citation>
+            </ref>
+            <ref data-class="jrnlRefText"  data-reftype="journal" data-reftype-name="Journal"
+                data-csl="true" data-validated-online="true" data-title="Validated from CrossRef"
+                data-doi="10.1029/2011JB008385" data-validated-log="true" data-validated="true"
+                data-id="R2" data-valid-id="R2" data-uncited="true">
+                <named-content data-class="jrnlQueryRef" rid="fe52c840-fbcc-42f9-93ef-818ee8e4fa79"
+                    data-query-ref="true" data-type="start" data-query-for="author"
+                    data-channel="query" data-topic="action" data-event="click"
+                    data-message="{'funcToCall': 'highlightQuery'}"
+                    data-query-action="uncited-reference" 
+                    content-type="jrnlQueryRef" specific-use="start" />
+                <label>2.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name >
+                            <surname >Armitage</surname>
+                            <given-names >PJ</given-names>
+                        </name>
+                        <x>, </x>
+                        <name >
+                            <surname >Faulkner</surname>
+                            <given-names >DR</given-names>
+                        </name>
+                        <x>, </x>
+                        <name >
+                            <surname >Worden</surname>
+                            <given-names >RH</given-names>
+                        </name>
+                        <x>, </x>
+                        <name >
+                            <surname >Aplin</surname>
+                            <given-names >AC</given-names>
+                        </name>
+                        <x>, </x>
+                        <name >
+                            <surname >Butcher</surname>
+                            <given-names >AR</given-names>
+                        </name>
+                        <x>, </x>
+                        <name >
+                            <surname >Iliffe</surname>
+                            <given-names >J</given-names>
+                        </name>
+                    </person-group>
+                    <x>. </x>
+                    <article-title >Experimental
+                        measurement of, and controls on, permeability and permeability anisotropy of
+                        caprocks from the CO <sub >2</sub>
+                        storage project at the Krechba Field, Algeria</article-title>
+                    <x> . </x>
+                    <source >J Geophys Res</source>
+                    <x>. </x>
+                    <year >2011</year>
+                    <x>;</x>
+                    <volume >116</volume>
+                    <x>(</x>
+                    <issue >B12</issue>
+                    <x>).</x>
+                </element-citation>
+            </ref>
+            <ref  data-class="jrnlRefText" data-reftype="article-journal"
+                data-reftype-name="Journal" data-csl="true" data-validated-online="true"
+                data-title="Validated from CrossRef" data-doi="10.1016/j.marpetgeo.2013.07.010"
+                data-validated-log="true" data-validated="true" seqid="R3" data-id="R3"
+                data-valid-id="R3" new-id="R3">
+                <label >3.</label>
+                <element-citation publication-type="journal"
+                    >
+                    <person-group person-group-type="author"
+                        >
+                        <name >
+                            <surname >Boulin</surname>
+                            <given-names >PF</given-names>
+                        </name>
+                        <x >, </x>
+                        <name >
+                            <surname >Bretonnier</surname>
+                            <given-names >P</given-names>
+                        </name>
+                        <x >, </x>
+                        <name >
+                            <surname >Vassil</surname>
+                            <given-names >V</given-names>
+                        </name>
+                        <x >, </x>
+                        <name >
+                            <surname >Samouillet</surname>
+                            <given-names >A</given-names>
+                        </name>
+                        <x >, </x>
+                        <name >
+                            <surname >Fleury</surname>
+                            <given-names >M</given-names>
+                        </name>
+                        <x >, </x>
+                        <name >
+                            <surname >Lombard</surname>
+                            <given-names >JM</given-names>
+                        </name>
+                    </person-group>
+                    <x >. </x>
+                    <article-title >Sealing efficiency of
+                        caprocks: Experimental investigation of entry pressure measurement methods</article-title>
+                    <x >. </x>
+                    <source >Mar Pet Geol</source>
+                    <x >. </x>
+                    <year >2013</year>
+                    <x > </x>
+                    <month >Dec</month>
+                    <x >;</x>
+                    <volume >48</volume>
+                    <x >:</x>
+                    <fpage >20</fpage>
+                    <x >&#x2013;</x>
+                    <lpage >30</lpage>
+                    <x >.</x>
+                </element-citation>
+            </ref>
+            <ref data-class="jrnlRefText" data-id="R4" data-styled="RefText" data-validated="false"
+                data-validated-log="false" data-csl="true" data-reftype="journal"
+                data-class-name="RefText"  data-valid-id="R4" data-uncited="true">
+                <named-content data-class="jrnlQueryRef" rid="9977ceb6-e417-4b90-985f-11be6d9035e7"
+                    data-query-ref="true" data-type="start" data-query-for="author"
+                    data-channel="query" data-topic="action" data-event="click"
+                    data-message="{'funcToCall': 'highlightQuery'}"
+                    data-query-action="uncited-reference" 
+                    content-type="jrnlQueryRef" specific-use="start" />
+                <label>4.</label>
+                <element-citation publication-type="journal">
+                    <x>) </x>
+                    <person-group person-group-type="author">
+                        <name ><surname
+                                >Cai</surname>, <given-names
+                                >J.</given-names></name>
+                        <x>, </x>
+                        <name ><surname
+                                >Liu</surname>, <given-names
+                                >L.</given-names></name>
+                        <x>, </x>
+                        <name ><surname
+                                >Ji</surname>, <given-names
+                                >J.</given-names></name>
+                        <x>, </x>
+                        <name ><surname
+                                >Meng</surname>, <given-names
+                                >Z.</given-names></name>
+                        <x>, </x>
+                        <name ><surname
+                                >Li</surname>, <given-names
+                                >K.</given-names></name>
+                    </person-group>
+                    <x> </x>
+                    <article-title >Shale gas resource
+                        evaluation method and application: An example of Wufeng Formation-Longmaxi
+                        Formation in Jiaoshiba area</article-title>
+                    <x>. </x>
+                    <source >Geological Survey of China</source>
+                    <x> </x>
+                    <volume >7</volume>
+                    <x>(</x>
+                    <issue >1</issue>
+                    <x>), </x>
+                    <year >2020</year>
+                    <x>. </x>
+                    <fpage >7</fpage>
+                    <x>-</x>
+                    <lpage >13</lpage>
+                    <x>.</x>
+                </element-citation>
+            </ref>
+            <ref data-class="jrnlRefText" data-id="R5" data-styled="RefText" data-validated="false"
+                data-validated-log="false" data-csl="true" data-reftype="journal"
+                data-class-name="RefText"  data-refuntagged="true"
+                data-reference-edited="true" data-valid-id="R5" data-uncited="true">
+                <named-content data-class="jrnlQueryRef" rid="130aaba0-a90f-47fb-b5ad-314f14aeee88"
+                    data-query-ref="true" data-type="start" data-query-for="author"
+                    data-channel="query" data-topic="action" data-event="click"
+                    data-message="{'funcToCall': 'highlightQuery'}"
+                    data-query-action="uncited-reference" 
+                    content-type="jrnlQueryRef" specific-use="start" />
+                <label>5.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name >
+                            <surname >Chen</surname>
+                            <given-names >Y</given-names>
+                        </name>
+                    </person-group>
+                    <x>. </x>
+                    <article-title >The study and
+                        evaluation of the confining behavior of the capping bed by using well
+                        logging data</article-title>
+                    <x>. </x>
+                    <source >Geophysical and Geochemical
+                        Exploration</source>
+                    <x>. </x>
+                    <year >1995</year>
+                    <x>;</x>
+                    <volume >19</volume>
+                    <x>(</x>
+                    <issue >3</issue>
+                    <x>).</x>
+                </element-citation>
+            </ref>
+            <ref data-class="jrnlRefText"  data-reftype="journal" data-reftype-name="Journal"
+                data-csl="true" data-validated-online="true" data-title="Validated from CrossRef"
+                data-doi="10.1016/j.psep.2019.03.036" data-validated-log="true"
+                data-validated="true" data-id="R6" data-valid-id="R6" data-uncited="true">
+                <named-content data-class="jrnlQueryRef" rid="022539be-c15b-4aa3-b1e7-0ff4cca2ec69"
+                    data-query-ref="true" data-type="start" data-query-for="author"
+                    data-channel="query" data-topic="action" data-event="click"
+                    data-message="{'funcToCall': 'highlightQuery'}"
+                    data-query-action="uncited-reference" 
+                    content-type="jrnlQueryRef" specific-use="start" />
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name >
+                            <surname >Cui</surname>
+                            <given-names >LY</given-names>
+                        </name>
+                        <x>, </x>
+                        <name >
+                            <surname >Ye</surname>
+                            <given-names >WM</given-names>
+                        </name>
+                        <x>, </x>
+                        <name >
+                            <surname >Wang</surname>
+                            <given-names >Q</given-names>
+                        </name>
+                        <x>, </x>
+                        <name >
+                            <surname >Chen</surname>
+                            <given-names >YG</given-names>
+                        </name>
+                        <x>, </x>
+                        <name >
+                            <surname >Chen</surname>
+                            <given-names >B</given-names>
+                        </name>
+                        <x>, </x>
+                        <name >
+                            <surname >Cui</surname>
+                            <given-names >YJ</given-names>
+                        </name>
+                    </person-group>
+                    <x>. </x>
+                    <article-title >Investigation on gas
+                        migration in saturated bentonite using the residual capillary pressure
+                        technique with consideration of temperature</article-title>
+                    <x>. </x>
+                    <source >
+                        <named-content xmlns:xlink="http://www.w3.org/1999/xlink"
+                            data-cid="1702443639280" 
+                            content-type="ins cts-1" specific-use="1702443639280"
+                            xlink:title="CrossRef" alt="CrossRef"
+                            data-title="Inserted by CrossRef - Wed Dec 13 2023 05:00:39 GMT+0000 (Coordinated Universal Time)"
+                            data-track-detail="" data-time="1702443639280" data-userid="CrossRef"
+                            data-username="CrossRef">Process Safety and Environmental Protection</named-content>
+                    </source>
+                    <x>. </x>
+                    <year >2019</year>
+                    <x> </x>
+                    <month >May</month>
+                    <x>;</x>
+                    <volume >125</volume>
+                    <x>:</x>
+                    <fpage >269</fpage>
+                    <x>&#x2013;</x>
+                    <lpage >78</lpage>
+                    <x>.</x>
+                </element-citation>
+            </ref>
+            <ref data-class="jrnlRefText"  data-reftype="journal" data-reftype-name="Journal"
+                data-csl="true" data-validated-online="true" data-title="Validated from CrossRef"
+                data-doi="10.1061/(ASCE)MT.1943-5533.0003206" data-validated-log="true"
+                data-validated="true" data-id="R7" data-valid-id="R7" data-uncited="true">
+                <named-content data-class="jrnlQueryRef" rid="444c0ff8-b931-4849-953b-d5e8b5fda559"
+                    data-query-ref="true" data-type="start" data-query-for="author"
+                    data-channel="query" data-topic="action" data-event="click"
+                    data-message="{'funcToCall': 'highlightQuery'}"
+                    data-query-action="uncited-reference" 
+                    content-type="jrnlQueryRef" specific-use="start" />
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name >
+                            <surname >Cui</surname>
+                            <given-names >L yong</given-names>
+                        </name>
+                        <x>, </x>
+                        <name >
+                            <surname >Ye</surname>
+                            <given-names >WM</given-names>
+                        </name>
+                        <x>, </x>
+                        <name >
+                            <surname >Wang</surname>
+                            <given-names >Q</given-names>
+                        </name>
+                        <x>, </x>
+                        <name >
+                            <surname >Chen</surname>
+                            <given-names >YG</given-names>
+                        </name>
+                        <x>, </x>
+                        <name >
+                            <surname >Chen</surname>
+                            <given-names >B</given-names>
+                        </name>
+                        <x>, </x>
+                        <name >
+                            <surname >Cui</surname>
+                            <given-names >YJ</given-names>
+                        </name>
+                    </person-group>
+                    <x>. </x>
+                    <article-title >Insights into
+                        Determination of Gas Breakthrough in Saturated Compacted Gaomiaozi Bentonite</article-title>
+                    <x>. </x>
+                    <source >J Mater Civ Eng</source>
+                    <x>. </x>
+                    <named-content xmlns:xlink="http://www.w3.org/1999/xlink"
+                        data-cid="1702443628543" 
+                        content-type="ins cts-1" specific-use="1702443628543" xlink:title="CrossRef"
+                        alt="CrossRef"
+                        data-title="Inserted by CrossRef - Wed Dec 13 2023 05:00:28 GMT+0000 (Coordinated Universal Time)"
+                        data-track-detail="" data-time="1702443628543" data-userid="CrossRef"
+                        data-username="CrossRef">
+                        <year >2020</year>
+                        <x> </x>
+                        <month >Jul</month>
+                        <x>;</x>
+                        <volume >32</volume>
+                        <x>(</x>
+                        <issue >7</issue>
+                        <x>):</x>
+                        <fpage >04020190</fpage>
+                        <x>.</x>
+                    </named-content>
+                </element-citation>
+            </ref>
+            <ref  data-class="jrnlRefText" data-reftype="article-journal"
+                data-reftype-name="Journal" data-csl="true" data-validated-online="true"
+                data-title="Validated from CrossRef" data-doi="10.1002/2014JB011333"
+                data-validated-log="true" data-validated="true" seqid="R8" data-id="R8"
+                data-valid-id="R8" new-id="R8">
+                <label >8.</label>
+                <element-citation publication-type="journal"
+                    >
+                    <person-group person-group-type="author"
+                        >
+                        <name >
+                            <surname >Cuss</surname>
+                            <given-names >RJ</given-names>
+                        </name>
+                        <x >, </x>
+                        <name >
+                            <surname >Harrington</surname>
+                            <given-names >JF</given-names>
+                        </name>
+                        <x >, </x>
+                        <name >
+                            <surname >Noy</surname>
+                            <given-names >DJ</given-names>
+                        </name>
+                        <x >, </x>
+                        <name >
+                            <surname >Sathar</surname>
+                            <given-names >S</given-names>
+                        </name>
+                        <x >, </x>
+                        <name >
+                            <surname >Norris</surname>
+                            <given-names >S</given-names>
+                        </name>
+                    </person-group>
+                    <x >. </x>
+                    <article-title >An experimental study
+                        of the flow of gas along synthetic faults of varying orientation to the
+                        stress field: Implications for performance assessment of radioactive waste
+                        disposal</article-title>
+                    <x >. </x>
+                    <source >
+                        <named-content xmlns:xlink="http://www.w3.org/1999/xlink"
+                            data-cid="1702443628627" 
+                            content-type="ins cts-1" specific-use="1702443628627"
+                            xlink:title="CrossRef" alt="CrossRef"
+                            data-title="Inserted by CrossRef - Wed Dec 13 2023 05:00:28 GMT+0000 (Coordinated Universal Time)"
+                            data-time="1702443628627" data-userid="CrossRef"
+                            data-username="CrossRef">JGR Solid Earth</named-content>
+                    </source>
+                    <x > [</x>
+                    <comment data-class="RefComments" >
+                        Internet</comment>
+                    <x >]. </x>
+                    <named-content xmlns:xlink="http://www.w3.org/1999/xlink"
+                        data-cid="1702443628627" 
+                        content-type="ins cts-1" specific-use="1702443628627" xlink:title="CrossRef"
+                        alt="CrossRef"
+                        data-title="Inserted by CrossRef - Wed Dec 13 2023 05:00:28 GMT+0000 (Coordinated Universal Time)"
+                        data-time="1702443628627" data-userid="CrossRef" data-username="CrossRef">
+                        <year >2015</year>
+                        <x > </x>
+                        <month >May</month>
+                        <x >;</x>
+                        <volume >120</volume>
+                        <x >(</x>
+                        <issue >5</issue>
+                        <x >):</x>
+                        <fpage >3932</fpage>
+                        <x >&#x2013;</x>
+                        <lpage >45</lpage>
+                        <x >. </x>
+                        <comment data-class="RefComments" >Available
+                            from</comment>
+                        <x >: </x>
+                        <uri xlink:href="https://agupubs.onlinelibrary.wiley.com/toc/21699356/120/5"
+                            >
+                            https://agupubs.onlinelibrary.wiley.com/toc/21699356/120/5</uri>
+                    </named-content>
+                </element-citation>
+            </ref>
+            <ref data-class="jrnlRefText" data-id="R9" data-styled="RefText" data-validated="false"
+                data-validated-log="false" data-csl="true" data-reftype="journal"
+                data-class-name="RefText"  data-reference-edited="true" data-valid-id="R9"
+                data-uncited="true">
+                <named-content data-class="jrnlQueryRef" rid="8caf67e1-a7a2-45c4-b4b6-6325a2b96dd0"
+                    data-query-ref="true" data-type="start" data-query-for="author"
+                    data-channel="query" data-topic="action" data-event="click"
+                    data-message="{'funcToCall': 'highlightQuery'}"
+                    data-query-action="uncited-reference" 
+                    content-type="jrnlQueryRef" specific-use="start" />
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name >
+                            <surname >Dai</surname>
+                            <given-names >F</given-names>
+                        </name>
+                    </person-group>
+                    <x>. </x>
+                    <article-title >Occurrence mechanism
+                        and key controlling factors of Wufeng-Longmaxi shale gas, eastern Sichuan
+                        basin</article-title>
+                    <x>. </x>
+                    <source >Earth Science</source>
+                    <x>. </x>
+                    <year >2017</year>
+                    <x>;</x>
+                    <volume >42</volume>
+                    <x>(</x>
+                    <issue >7</issue>
+                    <x>):</x>
+                    <fpage >1185</fpage>
+                    <x>&#x2013;</x>
+                    <lpage >94</lpage>
+                    <x>.</x>
+                </element-citation>
+            </ref>
+        </ref-list>
+    </back>
+</article>

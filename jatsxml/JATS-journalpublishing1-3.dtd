@@ -1,0 +1,31 @@
+<!ELEMENT article (front,body,back)>
+<!ATTLIST article article-type NMTOKEN #REQUIRED>
+<!ATTLIST article dtd-version NMTOKEN #REQUIRED>
+<!ELEMENT front (journal-meta,article-meta)>
+<!ELEMENT journal-meta (journal-id,journal-title-group,issn+,publisher)>
+<!ELEMENT journal-id (#PCDATA)>
+<!ATTLIST journal-id journal-id-type NMTOKEN #REQUIRED>
+<!ELEMENT journal-title-group (journal-title,abbrev-journal-title)>
+<!ELEMENT journal-title (#PCDATA)>
+<!ELEMENT abbrev-journal-title (#PCDATA)>
+<!ELEMENT issn (#PCDATA)>
+<!ATTLIST issn publication-format NMTOKEN #REQUIRED>
+<!ATTLIST issn pub-type NMTOKEN #REQUIRED>
+<!ELEMENT publisher (publisher-name)>
+<!ELEMENT publisher-name (#PCDATA)>
+<!ELEMENT article-meta (article-id+,title-group,contrib-group,abstract)>
+<!ELEMENT article-id (#PCDATA)>
+<!ATTLIST article-id pub-id-type NMTOKEN #REQUIRED>
+<!ELEMENT title-group (article-title)>
+<!ELEMENT article-title (#PCDATA|bold|italic)*>
+<!ELEMENT bold (#PCDATA)>
+<!ELEMENT contrib-group (contrib,aff+)>
+<!ATTLIST contrib-group content-type NMTOKEN #REQUIRED>
+<!ELEMENT contrib (#PCDATA|name|xref)*>
+<!ATTLIST contrib contrib-type NMTOKEN #REQUIRED>
+<!ELEMENT name (given-name?,surname,given-names?,suffix?)>
+<!ATTLIST name rid NMTOKEN #IMPLIED>
+<!ELEMENT given-name (#PCDATA)>
+<!ELEMENT surname (#PCDATA)>
+<!ELEMENT xref (#PCDATA|sup|xref|italic)*>
+<!ATTLIST xref ref-type (aff|bibr|fig|table) #REQUIRED><!ATTLIST xref rid CDATA #IMPLIED><!ELEMENT sup (#PCDATA)><!ELEMENT aff(#PCDATA|label|institution|country)*><!ATTLIST aff id NMTOKEN #REQUIRED><!ELEMENT label(#PCDATA|sup|italic)*><!ELEMENT institution (#PCDATA)><!ELEMENT country (#PCDATA)><!ELEMENT abstract (title,p)><!ELEMENT title(#PCDATA|bold|italic)*><!ELEMENT p(#PCDATA|xref|italic|bold|ext-link|graphic)*><!ELEMENT body (sec+)><!ELEMENT sec(#PCDATA|title|sec|p|fig|caption|table-wrap)*><!ATTLIST sec id ID #REQUIRED><!ELEMENT italic(#PCDATA|bold)*><!ELEMENT fig (label,caption,graphic)><!ATTLIST fig id NMTOKEN #REQUIRED><!ATTLIST fig orientation NMTOKEN #FIXED "portrait"><!ATTLIST fig position NMTOKEN #FIXED "float"><!ELEMENT caption(#PCDATA|italic|xref|p)*><!ELEMENT graphic EMPTY><!ELEMENT table-wrap (table)><!ATTLIST table-wrap position NMTOKEN #REQUIRED><!ELEMENT table (colgroup,tbody)><!ELEMENT colgroup (col+)><!ELEMENT col EMPTY><!ELEMENT tbody (tr+)><!ELEMENT tr (td+)><!ELEMENT td(#PCDATA|bold|italic)*><!ELEMENT ext-link(#PCDATA|sup)*><!ATTLIST ext-link ext-link-type NMTOKEN #REQUIRED><!ELEMENT back (ack,fn-group,ref-list)><!ELEMENT ack (title,p)><!ELEMENT fn-group (fn)><!ELEMENT fn (label,p)><!ATTLIST fn fn-type NMTOKEN #REQUIRED><!ELEMENT ref-list (title,ref+)><!ELEMENT ref (label,element-citation)><!ATTLIST ref id NMTOKEN #REQUIRED><!ELEMENT element-citation (person-group*,article-title?,comment*,source?,year?,pub-id?,x*,uri?,conf-name?,volume?,issue?,fpage?,lpage?,publisher-name?,publisher-loc?,chapter-title?,elocation-id?)><!ATTLIST element-citation publication-type (book|confproc|journal|other|preprint|website) #REQUIRED><!ELEMENT person-group (name+)><!ATTLIST person-group person-group-type (author|editor) #REQUIRED><!ELEMENT given-names (#PCDATA)><!ELEMENT comment (#PCDATA)><!ELEMENT source (italic)><!ELEMENT year (#PCDATA)><!ELEMENT pub-id (#PCDATA)><!ATTLIST pub-id pub-id-type NMTOKEN #FIXED "doi"><!ELEMENT x (#PCDATA)><!ELEMENT uri (#PCDATA)><!ELEMENT conf-name (italic)><!ELEMENT volume (#PCDATA)><!ELEMENT issue (#PCDATA)><!ELEMENT fpage (#PCDATA)><!ELEMENT lpage (#PCDATA)><!ELEMENT publisher-loc (#PCDATA)><!ELEMENT chapter-title (#PCDATA)><!ELEMENT elocation-id (#PCDATA)><!ELEMENT suffix (#PCDATA)>
